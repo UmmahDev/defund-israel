@@ -1,0 +1,43 @@
+service: defund-israel-api
+frameworkVersion: '3'
+useDotenv: true
+
+provider:
+  name: aws
+  runtime: nodejs18.x
+  region: us-east-1
+  environment:
+    CACHE_TABLE: RepresentativesCache
+  iamRoleStatements:
+    - Effect: Allow
+      Action:
+        - dynamodb:GetItem
+        - dynamodb:PutItem
+      Resource: arn:aws:dynamodb:${self:provider.region}:*:table/RepresentativesCache
+
+functions:
+  get-representatives:
+    handler: functions/get-representatives.handler
+    events:
+      - http:
+          path: get-representatives
+          method: get
+          cors: true
+
+resources:
+  Resources:
+    RepresentativesCache:
+      Type: AWS::DynamoDB::Table
+      Properties:
+        TableName: RepresentativesCache
+        AttributeDefinitions:
+          - AttributeName: zipcode
+            AttributeType: S
+        KeySchema:
+          - AttributeName: zipcode
+            KeyType: HASH
+        BillingMode: PAY_PER_REQUEST
+
+package:
+  exclude:
+    - client/**

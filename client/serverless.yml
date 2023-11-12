@@ -1,0 +1,16 @@
+service: defund-israel-ui
+frameworkVersion: '3'
+
+provider:
+  name: aws
+  runtime: nodejs14.x
+  lambdaHashingVersion: 20201221
+	
+plugins:
+  - serverless-finch
+
+custom:
+  client:
+    bucketName: defund-israel-bucket
+    distributionFolder: build
+    errorDocument: index.html

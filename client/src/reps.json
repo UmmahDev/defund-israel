@@ -1,0 +1,4038 @@
+{
+    "Alabama": {
+        "senators": [
+            {
+                "name": "Tommy Tuberville",
+                "url": "https://tinyurl.com/rcfs7mzc",
+                "email": "senator_tuberville@tuberville.senate.gov",
+                "firstName": "Tommy",
+                "lastName": "Tuberville"
+            },
+            {
+                "name": "Katie Britt",
+                "url": "https://tinyurl.com/vsvkfwd9",
+                "email": "clay_armentrout@britt.senate.gov",
+                "firstName": "Katie",
+                "lastName": "Britt"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Carl, Jerry",
+                "url": "https://tinyurl.com/e3f2fcat",
+                "email": "jerry.carl@mail.house.gov",
+                "firstName": "Carl",
+                "lastName": "Jerry"
+            },
+            {
+                "name": "Moore, Barry",
+                "url": "https://tinyurl.com/597x64ef",
+                "email": "barry.moore@mail.house.gov",
+                "firstName": "Moore",
+                "lastName": "Barry"
+            },
+            {
+                "name": "Rogers, Mike",
+                "url": "https://tinyurl.com/38rz9sbw",
+                "email": "mike.rogers@mail.house.gov",
+                "firstName": "Rogers",
+                "lastName": "Mike"
+            },
+            {
+                "name": "Aderholt, Robert",
+                "url": "https://tinyurl.com/fca8xfrd",
+                "email": "michael.lowry@mail.house.gov",
+                "firstName": "Aderholt",
+                "lastName": "Robert"
+            },
+            {
+                "name": "Strong, Dale",
+                "url": "https://tinyurl.com/2ab4acf9",
+                "email": "dale.strong@mail.house.gov",
+                "firstName": "Strong",
+                "lastName": "Dale"
+            },
+            {
+                "name": "Palmer, Gary",
+                "url": "https://tinyurl.com/5czmxumx",
+                "email": "gary.palmer@mail.house.gov",
+                "firstName": "Palmer",
+                "lastName": "Gary"
+            },
+            {
+                "name": "Sewell, Terri",
+                "url": "https://tinyurl.com/4yb38528",
+                "email": "terri.sewell@mail.house.gov",
+                "firstName": "Sewell",
+                "lastName": "Terri"
+            }
+        ]
+    },
+    "Alaska": {
+        "senators": [
+            {
+                "name": "Lisa Murkowski",
+                "url": "https://tinyurl.com/2ys35ad7",
+                "email": "lmurkowski@murkowski.senate.gov",
+                "firstName": "Lisa",
+                "lastName": "Murkowski"
+            },
+            {
+                "name": "Dan Sullivan",
+                "url": "https://tinyurl.com/442ws46m",
+                "email": "larry_burton@sullivan.senate.gov",
+                "firstName": "Dan",
+                "lastName": "Sullivan"
+            }
+        ],
+        "representatives": []
+    },
+    "Arizona": {
+        "senators": [
+            {
+                "name": "Kyrsten Sinema",
+                "url": "https://tinyurl.com/zny3zdtt",
+                "email": "michael_brownlie@sinema.senate.gov",
+                "firstName": "Kyrsten",
+                "lastName": "Sinema"
+            },
+            {
+                "name": "Mark Kelly",
+                "url": "https://tinyurl.com/yc4hnth3",
+                "email": "contact@kelly.senate.gov",
+                "firstName": "Mark",
+                "lastName": "Kelly"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Schweikert, David",
+                "url": "https://tinyurl.com/yeypzpu9",
+                "email": "David.Schweikert@mail.house.gov",
+                "firstName": "Schweikert",
+                "lastName": "David"
+            },
+            {
+                "name": "Crane, Elijah",
+                "url": "https://tinyurl.com/5n8jcbww",
+                "email": "Elijah.Crane@mail.house.gov",
+                "firstName": "Crane",
+                "lastName": "Elijah"
+            },
+            {
+                "name": "Gallego, Ruben",
+                "url": "https://tinyurl.com/2bevns5h",
+                "email": "Ruben.Gallego@mail.house.gov",
+                "firstName": "Gallego",
+                "lastName": "Ruben"
+            },
+            {
+                "name": "Stanton, Greg",
+                "url": "https://tinyurl.com/4f4yju37",
+                "email": "Greg.Stanton@mail.house.gov",
+                "firstName": "Stanton",
+                "lastName": "Greg"
+            },
+            {
+                "name": "Biggs, Andy",
+                "url": "https://tinyurl.com/2ypxpa8m",
+                "email": "Andy.Biggs@mail.house.gov",
+                "firstName": "Biggs",
+                "lastName": "Andy"
+            },
+            {
+                "name": "Ciscomani, Juan",
+                "url": "https://tinyurl.com/2py9rhd6",
+                "email": "Juan.Ciscomani@mail.house.gov",
+                "firstName": "Ciscomani",
+                "lastName": "Juan"
+            },
+            {
+                "name": "Grijalva, Raul",
+                "url": "https://tinyurl.com/53euttw4",
+                "email": "Raul.Grijalva@mail.house.gov",
+                "firstName": "Grijalva",
+                "lastName": "Raul"
+            },
+            {
+                "name": "Lesko, Debbie",
+                "url": "https://tinyurl.com/yckh5w26",
+                "email": "Debbie.Lesko@mail.house.gov",
+                "firstName": "Lesko",
+                "lastName": "Debbie"
+            },
+            {
+                "name": "Gosar, Paul",
+                "url": "https://tinyurl.com/4hxzp7bf",
+                "email": "Paul.Gosar@mail.house.gov",
+                "firstName": "Gosar",
+                "lastName": "Paul"
+            }
+        ]
+    },
+    "Arkansas": {
+        "senators": [
+            {
+                "name": "Tom Cotton",
+                "url": "https://tinyurl.com/3jy4xteb",
+                "email": "tom_cotton@cotton.senate.gov",
+                "firstName": "Tom",
+                "lastName": "Cotton"
+            },
+            {
+                "name": "John Boozman",
+                "url": "https://tinyurl.com/5n8cn577",
+                "email": "helen_tolar@boozman.senate.gov",
+                "firstName": "John",
+                "lastName": "Boozman"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Crawford, Eric",
+                "url": "https://tinyurl.com/5aactj9h",
+                "email": "rick.Crawford@mail.house.gov",
+                "firstName": "Crawford",
+                "lastName": "Eric"
+            },
+            {
+                "name": "Hill, French",
+                "url": "https://tinyurl.com/ymbumh8c",
+                "email": "French.Hill@mail.house.gov",
+                "firstName": "Hill",
+                "lastName": "French"
+            },
+            {
+                "name": "Womack, Steve",
+                "url": "https://tinyurl.com/45ex7e9w",
+                "email": "Steve.Womack@mail.house.gov",
+                "firstName": "Womack",
+                "lastName": "Steve"
+            },
+            {
+                "name": "Westerman, Bruce",
+                "url": "https://tinyurl.com/mr3z2u3h",
+                "email": "Bruce.Westerman@mail.house.gov",
+                "firstName": "Westerman",
+                "lastName": "Bruce"
+            }
+        ]
+    },
+    "California": {
+        "senators": [
+            {
+                "name": "Alex Padilla",
+                "url": "https://tinyurl.com/2jbvnzev",
+                "email": "joshua_esquivel@padilla.senate.gov",
+                "firstName": "Alex",
+                "lastName": "Padilla"
+            },
+            {
+                "name": "Laphonza Butler",
+                "url": "https://tinyurl.com/bdfuh28v",
+                "email": "marvin_figueroa@butler.senate.gov",
+                "firstName": "Laphonza",
+                "lastName": "Butler"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "LaMalfa, Doug",
+                "url": "https://tinyurl.com/wt42hdt3",
+                "email": "mark.spannagel@mail.house.gov",
+                "firstName": "LaMalfa",
+                "lastName": "Doug"
+            },
+            {
+                "name": "Huffman, Jared",
+                "url": "https://tinyurl.com/bddpdjev",
+                "email": "jennifer.goedke@mail.house.gov",
+                "firstName": "Huffman",
+                "lastName": "Jared"
+            },
+            {
+                "name": "Kiley, Kevin",
+                "url": "https://tinyurl.com/2p8xz5mv",
+                "email": "Kevin.Kiley@mail.house.gov",
+                "firstName": "Kiley",
+                "lastName": "Kevin"
+            },
+            {
+                "name": "Thompson, Mike",
+                "url": "https://tinyurl.com/339usf3m",
+                "email": "Mike.Thompson@mail.house.gov",
+                "firstName": "Thompson",
+                "lastName": "Mike"
+            },
+            {
+                "name": "McClintock, Tom",
+                "url": "https://tinyurl.com/ysakn38z",
+                "email": "Tom.McClintock@mail.house.gov",
+                "firstName": "McClintock",
+                "lastName": "Tom"
+            },
+            {
+                "name": "Bera, Ami",
+                "url": "https://tinyurl.com/yt4r4z4x",
+                "email": "Ami.Bera@mail.house.gov",
+                "firstName": "Bera",
+                "lastName": "Ami"
+            },
+            {
+                "name": "Matsui, Doris",
+                "url": "https://tinyurl.com/2p8925re",
+                "email": "jeremy.marcus@mail.house.gov",
+                "firstName": "Matsui",
+                "lastName": "Doris"
+            },
+            {
+                "name": "Garamendi, John",
+                "url": "https://tinyurl.com/53nf86dn",
+                "email": "bradley.bottoms@mail.house.gov",
+                "firstName": "Garamendi",
+                "lastName": "John"
+            },
+            {
+                "name": "Harder, Josh",
+                "url": "https://tinyurl.com/3rn4evam",
+                "email": "Josh.Harder@mail.house.gov",
+                "firstName": "Harder",
+                "lastName": "Josh"
+            },
+            {
+                "name": "DeSaulnier, Mark",
+                "url": "https://tinyurl.com/2afs42dj",
+                "email": "Mark.DeSaulnier@mail.house.gov",
+                "firstName": "DeSaulnier",
+                "lastName": "Mark"
+            },
+            {
+                "name": "Pelosi, Nancy",
+                "url": "https://tinyurl.com/cfudkz2y",
+                "email": "terri.mccullough@mail.house.gov",
+                "firstName": "Pelosi",
+                "lastName": "Nancy"
+            },
+            {
+                "name": "Lee, Barbara",
+                "url": "https://tinyurl.com/e246nn37",
+                "email": "joyce.kazadi@mail.house.gov",
+                "firstName": "Lee",
+                "lastName": "Barbara"
+            },
+            {
+                "name": "Duarte, John",
+                "url": "https://tinyurl.com/2nxpxynb",
+                "email": "John.Duarte@mail.house.gov",
+                "firstName": "Duarte",
+                "lastName": "John"
+            },
+            {
+                "name": "Swalwell, Eric",
+                "url": "https://tinyurl.com/2dmbhjzf",
+                "email": "Eric.Swalwell@mail.house.gov",
+                "firstName": "Swalwell",
+                "lastName": "Eric"
+            },
+            {
+                "name": "Mullin, Kevin",
+                "url": "https://tinyurl.com/3trvbjbz",
+                "email": "Kevin.Mullin@mail.house.gov",
+                "firstName": "Mullin",
+                "lastName": "Kevin"
+            },
+            {
+                "name": "Eshoo, Anna",
+                "url": "https://tinyurl.com/ytuutvzh",
+                "email": "Anna.Eshoo@mail.house.gov",
+                "firstName": "Eshoo",
+                "lastName": "Anna"
+            },
+            {
+                "name": "Khanna, Ro",
+                "url": "https://tinyurl.com/4c8pvyfp",
+                "email": "Ro.Khanna@mail.house.gov",
+                "firstName": "Khanna",
+                "lastName": "Ro"
+            },
+            {
+                "name": "Lofgren, Zoe",
+                "url": "https://tinyurl.com/2p8azweh",
+                "email": "Zoe.Lofgren@mail.house.gov",
+                "firstName": "Lofgren",
+                "lastName": "Zoe"
+            },
+            {
+                "name": "Panetta, Jimmy",
+                "url": "https://tinyurl.com/yxrxyrud",
+                "email": "Jimmy.Panetta@mail.house.gov",
+                "firstName": "Panetta",
+                "lastName": "Jimmy"
+            },
+            {
+                "name": "McCarthy, Kevin",
+                "url": "https://tinyurl.com/45vva35a",
+                "email": "Kevin.McCarthy@mail.house.gov",
+                "firstName": "McCarthy",
+                "lastName": "Kevin"
+            },
+            {
+                "name": "Costa, Jim",
+                "url": "https://tinyurl.com/5cwjhbj8",
+                "email": "juan.lopez@mail.house.gov",
+                "firstName": "Costa",
+                "lastName": "Jim"
+            },
+            {
+                "name": "Valadao, David",
+                "url": "https://tinyurl.com/nz5vvmru",
+                "email": "andrew.renteria@mail.house.gov",
+                "firstName": "Valadao",
+                "lastName": "David"
+            },
+            {
+                "name": "Obernolte, Jay",
+                "url": "https://tinyurl.com/mpvu7s8m",
+                "email": "Jay.Obernolte@mail.house.gov",
+                "firstName": "Obernolte",
+                "lastName": "Jay"
+            },
+            {
+                "name": "Carbajal, Salud",
+                "url": "https://tinyurl.com/25f4jj96",
+                "email": "Salud.Carbajal@mail.house.gov",
+                "firstName": "Carbajal",
+                "lastName": "Salud"
+            },
+            {
+                "name": "Ruiz, Raul",
+                "url": "https://tinyurl.com/6274mkpv",
+                "email": "Raul.Ruiz@mail.house.gov",
+                "firstName": "Ruiz",
+                "lastName": "Raul"
+            },
+            {
+                "name": "Brownley, Julia",
+                "url": "https://tinyurl.com/23r3b555",
+                "email": "lenny.young@mail.house.gov",
+                "firstName": "Brownley",
+                "lastName": "Julia"
+            },
+            {
+                "name": "Garcia, Mike",
+                "url": "https://tinyurl.com/2uz4xpxs",
+                "email": "Mike.Garcia@mail.house.gov",
+                "firstName": "Garcia",
+                "lastName": "Mike"
+            },
+            {
+                "name": "Chu, Judy",
+                "url": "https://tinyurl.com/399u4h7u",
+                "email": "Judy.Chu@mail.house.gov",
+                "firstName": "Chu",
+                "lastName": "Judy"
+            },
+            {
+                "name": "Cardenas, Tony",
+                "url": "https://tinyurl.com/4842vxyt",
+                "email": "Tony.Cardenas@mail.house.gov",
+                "firstName": "Cardenas",
+                "lastName": "Tony"
+            },
+            {
+                "name": "Schiff, Adam",
+                "url": "https://tinyurl.com/24u3ms6j",
+                "email": "Adam.Schiff@mail.house.gov",
+                "firstName": "Schiff",
+                "lastName": "Adam"
+            },
+            {
+                "name": "Napolitano, Grace",
+                "url": "https://tinyurl.com/ynnxpaj5",
+                "email": "Grace.Napolitano@mail.house.gov",
+                "firstName": "Napolitano",
+                "lastName": "Grace"
+            },
+            {
+                "name": "Sherman, Brad",
+                "url": "https://tinyurl.com/y5pwy42s",
+                "email": "Brad.Sherman@mail.house.gov",
+                "firstName": "Sherman",
+                "lastName": "Brad"
+            },
+            {
+                "name": "Aguilar, Pete",
+                "url": "https://tinyurl.com/ru57u8xc",
+                "email": "Pete.Aguilar@mail.house.gov",
+                "firstName": "Aguilar",
+                "lastName": "Pete"
+            },
+            {
+                "name": "Gomez, Jimmy",
+                "url": "https://tinyurl.com/bd9rnmtm",
+                "email": "Jimmy.Gomez@mail.house.gov",
+                "firstName": "Gomez",
+                "lastName": "Jimmy"
+            },
+            {
+                "name": "Torres, Norma",
+                "url": "https://tinyurl.com/n254v6cc",
+                "email": "don.andres@mail.house.gov",
+                "firstName": "Torres",
+                "lastName": "Norma"
+            },
+            {
+                "name": "Lieu, Ted",
+                "url": "https://tinyurl.com/4366fwah",
+                "email": "marc.cevasco@mail.house.gov",
+                "firstName": "Lieu",
+                "lastName": "Ted"
+            },
+            {
+                "name": "Kamlager-Dove, Sydney",
+                "url": "https://tinyurl.com/y6ukzc5d",
+                "email": "Sydney.Kamlager-Dove@mail.house.gov",
+                "firstName": "Kamlager-Dove",
+                "lastName": "Sydney"
+            },
+            {
+                "name": "Sanchez, Linda",
+                "url": "https://tinyurl.com/3383t5zr",
+                "email": "Linda.Sanchez@mail.house.gov",
+                "firstName": "Sanchez",
+                "lastName": "Linda"
+            },
+            {
+                "name": "Takano, Mark",
+                "url": "https://tinyurl.com/bdhcv8xn",
+                "email": "Mark.Takano@mail.house.gov",
+                "firstName": "Takano",
+                "lastName": "Mark"
+            },
+            {
+                "name": "Kim, Young",
+                "url": "https://tinyurl.com/mrxzxukr",
+                "email": "Young.Kim@mail.house.gov",
+                "firstName": "Kim",
+                "lastName": "Young"
+            },
+            {
+                "name": "Calvert, Ken",
+                "url": "https://tinyurl.com/4nf4u36a",
+                "email": "Ken.Calvert@mail.house.gov",
+                "firstName": "Calvert",
+                "lastName": "Ken"
+            },
+            {
+                "name": "Garcia, Robert",
+                "url": "https://tinyurl.com/47h28c3z",
+                "email": "Robert.Garcia@mail.house.gov",
+                "firstName": "Garcia",
+                "lastName": "Robert"
+            },
+            {
+                "name": "Waters, Maxine",
+                "url": "https://tinyurl.com/2azzzcc9",
+                "email": "Maxine.Waters@mail.house.gov",
+                "firstName": "Waters",
+                "lastName": "Maxine"
+            },
+            {
+                "name": "Barragan, Nanette",
+                "url": "https://tinyurl.com/3ttfbznj",
+                "email": "Nanette.Barragan@mail.house.gov",
+                "firstName": "Barragan",
+                "lastName": "Nanette"
+            },
+            {
+                "name": "Steel, Michelle",
+                "url": "https://tinyurl.com/2s42kf79",
+                "email": "Michelle.Steel@mail.house.gov",
+                "firstName": "Steel",
+                "lastName": "Michelle"
+            },
+            {
+                "name": "Correa, Luis",
+                "url": "https://tinyurl.com/3wmdn775",
+                "email": "Luis.Correa@mail.house.gov",
+                "firstName": "Correa",
+                "lastName": "Luis"
+            },
+            {
+                "name": "Porter, Katie",
+                "url": "https://tinyurl.com/bde3d8t7",
+                "email": "Katie.Porter@mail.house.gov",
+                "firstName": "Porter",
+                "lastName": "Katie"
+            },
+            {
+                "name": "Issa, Darrell",
+                "url": "https://tinyurl.com/mr3jkne8",
+                "email": "Darrell.Issa@mail.house.gov",
+                "firstName": "Issa",
+                "lastName": "Darrell"
+            },
+            {
+                "name": "Levin, Mike",
+                "url": "https://tinyurl.com/35j683fd",
+                "email": "Mike.Levin@mail.house.gov",
+                "firstName": "Levin",
+                "lastName": "Mike"
+            },
+            {
+                "name": "Peters, Scott",
+                "url": "https://tinyurl.com/sf4vbv5h",
+                "email": "Scott.Peters@mail.house.gov",
+                "firstName": "Peters",
+                "lastName": "Scott"
+            },
+            {
+                "name": "Jacobs, Sara",
+                "url": "https://tinyurl.com/yftyn9ws",
+                "email": "Sara.Jacobs@mail.house.gov",
+                "firstName": "Jacobs",
+                "lastName": "Sara"
+            },
+            {
+                "name": "Vargas, Juan",
+                "url": "https://tinyurl.com/mwyumuva",
+                "email": "Juan.Vargas@mail.house.gov",
+                "firstName": "Vargas",
+                "lastName": "Juan"
+            }
+        ]
+    },
+    "Colorado": {
+        "senators": [
+            {
+                "name": "Michael Bennet",
+                "url": "https://tinyurl.com/3m9n9kuw",
+                "email": "michael_bennet@bennet.senate.gov",
+                "firstName": "Michael",
+                "lastName": "Bennet"
+            },
+            {
+                "name": "John Hickenlooper",
+                "url": "https://tinyurl.com/4m8tnb3j",
+                "email": "kirtan_mehta@hickenlooper.senate.gov",
+                "firstName": "John",
+                "lastName": "Hickenlooper"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "DeGette, Diana",
+                "url": "https://tinyurl.com/bdza3vfh",
+                "email": "Diana.DeGette@mail.house.gov",
+                "firstName": "DeGette",
+                "lastName": "Diana"
+            },
+            {
+                "name": "Neguse, Joe",
+                "url": "https://tinyurl.com/bdfah8eb",
+                "email": "Joe.Neguse@mail.house.gov",
+                "firstName": "Neguse",
+                "lastName": "Joe"
+            },
+            {
+                "name": "Boebert, Lauren",
+                "url": "https://tinyurl.com/3h98vuvk",
+                "email": "jeff.small@mail.house.gov",
+                "firstName": "Boebert",
+                "lastName": "Lauren"
+            },
+            {
+                "name": "Buck, Ken",
+                "url": "https://tinyurl.com/nte6pyjf",
+                "email": "Ken.Buck@mail.house.gov",
+                "firstName": "Buck",
+                "lastName": "Ken"
+            },
+            {
+                "name": "Lamborn, Doug",
+                "url": "https://tinyurl.com/2mhpkj3e",
+                "email": "will.sacripanti@mail.house.gov",
+                "firstName": "Lamborn",
+                "lastName": "Doug"
+            },
+            {
+                "name": "Crow, Jason",
+                "url": "https://tinyurl.com/mvxjw64c",
+                "email": "Jason.Crow@mail.house.gov",
+                "firstName": "Crow",
+                "lastName": "Jason"
+            },
+            {
+                "name": "Pettersen, Brittany",
+                "url": "https://tinyurl.com/5er9rhxb",
+                "email": "Brittany.Pettersen@mail.house.gov",
+                "firstName": "Pettersen",
+                "lastName": "Brittany"
+            },
+            {
+                "name": "Caraveo, Yadira",
+                "url": "https://tinyurl.com/22tw3meh",
+                "email": "Yadira.Caraveo@mail.house.gov",
+                "firstName": "Caraveo",
+                "lastName": "Yadira"
+            }
+        ]
+    },
+    "Connecticut": {
+        "senators": [
+            {
+                "name": "Chris Murphy",
+                "url": "https://tinyurl.com/yc7vd6j9",
+                "email": "allison_herwitt@murphy.senate.gov",
+                "firstName": "Chris",
+                "lastName": "Murphy"
+            },
+            {
+                "name": "Richard Blumenthal",
+                "url": "https://tinyurl.com/u7jj9fkt",
+                "email": "richard_blumenthal@blumenthal.senate.gov",
+                "firstName": "Richard",
+                "lastName": "Blumenthal"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Larson, John",
+                "url": "https://tinyurl.com/4dw6nd7x",
+                "email": "John.Larson@mail.house.gov",
+                "firstName": "Larson",
+                "lastName": "John"
+            },
+            {
+                "name": "Courtney, Joe",
+                "url": "https://tinyurl.com/5fbknefp",
+                "email": "Joe.Courtney@mail.house.gov",
+                "firstName": "Courtney",
+                "lastName": "Joe"
+            },
+            {
+                "name": "DeLauro, Rosa",
+                "url": "https://tinyurl.com/mr2ka3fe",
+                "email": "rebecca.salay@mail.house.gov",
+                "firstName": "DeLauro",
+                "lastName": "Rosa"
+            },
+            {
+                "name": "Himes, James",
+                "url": "https://tinyurl.com/ync7npvt",
+                "email": "James.Himes@mail.house.gov",
+                "firstName": "Himes",
+                "lastName": "James"
+            },
+            {
+                "name": "Hayes, Jahana",
+                "url": "https://tinyurl.com/5d7sa5s3",
+                "email": "Jahana.Hayes@mail.house.gov",
+                "firstName": "Hayes",
+                "lastName": "Jahana"
+            }
+        ]
+    },
+    "Delaware": {
+        "senators": [
+            {
+                "name": "Chris Coons",
+                "url": "https://tinyurl.com/3fbce649",
+                "email": "chris_coons@coons.senate.gov",
+                "firstName": "Chris",
+                "lastName": "Coons"
+            },
+            {
+                "name": "Tom Carper",
+                "url": "https://tinyurl.com/4f79ma6f",
+                "email": "tom_carper@carper.senate.gov",
+                "firstName": "Tom",
+                "lastName": "Carper"
+            }
+        ],
+        "representatives": []
+    },
+    "Florida": {
+        "senators": [
+            {
+                "name": "Rick Scott",
+                "url": "https://tinyurl.com/3fr93496",
+                "email": "craig_carbone@rickscott.senate.gov",
+                "firstName": "Rick",
+                "lastName": "Scott"
+            },
+            {
+                "name": "Marco Rubio",
+                "url": "https://tinyurl.com/2p29f29w",
+                "email": "marco_rubio@rubio.senate.gov",
+                "firstName": "Marco",
+                "lastName": "Rubio"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Gaetz, Matt",
+                "url": "https://tinyurl.com/368zsxby",
+                "email": "Matt.Gaetz@mail.house.gov",
+                "firstName": "Gaetz",
+                "lastName": "Matt"
+            },
+            {
+                "name": "Dunn, Neal",
+                "url": "https://tinyurl.com/28hexj4t",
+                "email": "Neal.Dunn@mail.house.gov",
+                "firstName": "Dunn",
+                "lastName": "Neal"
+            },
+            {
+                "name": "Cammack, Kat",
+                "url": "https://tinyurl.com/bp7kkpa",
+                "email": "Kat.Cammack@mail.house.gov",
+                "firstName": "Cammack",
+                "lastName": "Kat"
+            },
+            {
+                "name": "Bean, Aaron",
+                "url": "https://tinyurl.com/ytsewkuv",
+                "email": "Aaron.Bean@mail.house.gov",
+                "firstName": "Bean",
+                "lastName": "Aaron"
+            },
+            {
+                "name": "Rutherford, John",
+                "url": "https://tinyurl.com/5n6cea26",
+                "email": "John.Rutherford@mail.house.gov",
+                "firstName": "Rutherford",
+                "lastName": "John"
+            },
+            {
+                "name": "Waltz, Michael",
+                "url": "https://tinyurl.com/yvjxxh8b",
+                "email": "Michael.Waltz@mail.house.gov",
+                "firstName": "Waltz",
+                "lastName": "Michael"
+            },
+            {
+                "name": "Mills, Cory",
+                "url": "https://tinyurl.com/dacmjdup",
+                "email": "Cory.Mills@mail.house.gov",
+                "firstName": "Mills",
+                "lastName": "Cory"
+            },
+            {
+                "name": "Posey, Bill",
+                "url": "https://tinyurl.com/mphx3rt2",
+                "email": "Bill.Posey@mail.house.gov",
+                "firstName": "Posey",
+                "lastName": "Bill"
+            },
+            {
+                "name": "Soto, Darren",
+                "url": "https://tinyurl.com/mpmya72j",
+                "email": "liana.guerra@mail.house.gov",
+                "firstName": "Soto",
+                "lastName": "Darren"
+            },
+            {
+                "name": "Frost, Maxwell",
+                "url": "https://tinyurl.com/2nkshnf9",
+                "email": "Maxwell.Frost@mail.house.gov",
+                "firstName": "Frost",
+                "lastName": "Maxwell"
+            },
+            {
+                "name": "Webster, Daniel",
+                "url": "https://tinyurl.com/3hur5vhj",
+                "email": "Daniel.Webster@mail.house.gov",
+                "firstName": "Webster",
+                "lastName": "Daniel"
+            },
+            {
+                "name": "Bilirakis, Gus",
+                "url": "https://tinyurl.com/3awx6tr2",
+                "email": "elizabeth.hittos@mail.house.gov",
+                "firstName": "Bilirakis",
+                "lastName": "Gus"
+            },
+            {
+                "name": "Luna, Anna Paulina",
+                "url": "https://tinyurl.com/3jnu57tm",
+                "email": "Anna.Paulina.Luna@mail.house.gov",
+                "firstName": "Luna",
+                "lastName": "Paulina"
+            },
+            {
+                "name": "Castor, Kathy",
+                "url": "https://tinyurl.com/479jd3k5",
+                "email": "Kathy.Castor@mail.house.gov",
+                "firstName": "Castor",
+                "lastName": "Kathy"
+            },
+            {
+                "name": "Lee, Laurel",
+                "url": "https://tinyurl.com/2nhncjc6",
+                "email": "Laurel.Lee@mail.house.gov",
+                "firstName": "Lee",
+                "lastName": "Laurel"
+            },
+            {
+                "name": "Buchanan, Vern",
+                "url": "https://tinyurl.com/35kv7jsn",
+                "email": "Vern.Buchanan@mail.house.gov",
+                "firstName": "Buchanan",
+                "lastName": "Vern"
+            },
+            {
+                "name": "Steube, Greg",
+                "url": "https://tinyurl.com/yck2acyd",
+                "email": "greg.Steube@mail.house.gov",
+                "firstName": "Steube",
+                "lastName": "Greg"
+            },
+            {
+                "name": "Franklin, Scott",
+                "url": "https://tinyurl.com/2mpf6r2p",
+                "email": "Scott.Franklin@mail.house.gov",
+                "firstName": "Franklin",
+                "lastName": "Scott"
+            },
+            {
+                "name": "Donalds, Byron",
+                "url": "https://tinyurl.com/kzyu3eet",
+                "email": "Byron.Donalds@mail.house.gov",
+                "firstName": "Donalds",
+                "lastName": "Byron"
+            },
+            {
+                "name": "Cherfilus-McCormick, Sheila",
+                "url": "https://tinyurl.com/2p8cer3d",
+                "email": "Sheila.Cherfilus-McCormick@mail.house.gov",
+                "firstName": "Cherfilus-McCormick",
+                "lastName": "Sheila"
+            },
+            {
+                "name": "Mast, Brian",
+                "url": "https://tinyurl.com/3xse9dmu",
+                "email": "Brian.Mast@mail.house.gov",
+                "firstName": "Mast",
+                "lastName": "Brian"
+            },
+            {
+                "name": "Frankel, Lois",
+                "url": "https://tinyurl.com/4j372r23",
+                "email": "Lois.Frankel@mail.house.gov",
+                "firstName": "Frankel",
+                "lastName": "Lois"
+            },
+            {
+                "name": "Moskowitz, Jared",
+                "url": "https://tinyurl.com/47rrpw6s",
+                "email": "Jared.Moskowitz@mail.house.gov",
+                "firstName": "Moskowitz",
+                "lastName": "Jared"
+            },
+            {
+                "name": "Wilson, Frederica",
+                "url": "https://tinyurl.com/3x5psp25",
+                "email": "Frederica.Wilson@mail.house.gov",
+                "firstName": "Wilson",
+                "lastName": "Frederica"
+            },
+            {
+                "name": "Wasserman Schultz, Debbie",
+                "url": "https://tinyurl.com/mwawnkt3",
+                "email": "Debbie.Wasserman-Schultz@mail.house.gov",
+                "firstName": "Wasserman",
+                "lastName": "Debbie"
+            },
+            {
+                "name": "Diaz-Balart, Mario",
+                "url": "https://tinyurl.com/5wy3ethh",
+                "email": "Mario.Diaz-Balart@mail.house.gov",
+                "firstName": "Diaz-Balart",
+                "lastName": "Mario"
+            },
+            {
+                "name": "Salazar, Maria",
+                "url": "https://tinyurl.com/2a7udk26",
+                "email": "Maria.Salazar@mail.house.gov",
+                "firstName": "Salazar",
+                "lastName": "Maria"
+            },
+            {
+                "name": "Gimenez, Carlos",
+                "url": "https://tinyurl.com/2nxbvhu8",
+                "email": "Carlos.Gimenez@mail.house.gov",
+                "firstName": "Gimenez",
+                "lastName": "Carlos"
+            }
+        ]
+    },
+    "Georgia": {
+        "senators": [
+            {
+                "name": "Raphael Warnock",
+                "url": "https://tinyurl.com/c5wbmrva",
+                "email": "josh_delaney@warnock.senate.gov",
+                "firstName": "Raphael",
+                "lastName": "Warnock"
+            },
+            {
+                "name": "Jon Ossoff",
+                "url": "https://tinyurl.com/ykdewz4y",
+                "email": "jon_ossoff@ossoff.senate.gov",
+                "firstName": "Jon",
+                "lastName": "Ossoff"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Carter, Earl",
+                "url": "https://tinyurl.com/ytatz2yk",
+                "email": "Earl.Carter@mail.house.gov",
+                "firstName": "Carter",
+                "lastName": "Earl"
+            },
+            {
+                "name": "Bishop, Sanford",
+                "url": "https://tinyurl.com/mr2wt3su",
+                "email": "Sanford.Bishop@mail.house.gov",
+                "firstName": "Bishop",
+                "lastName": "Sanford"
+            },
+            {
+                "name": "Ferguson, Drew",
+                "url": "https://tinyurl.com/n3rp5uze",
+                "email": "Drew.Ferguson@mail.house.gov",
+                "firstName": "Ferguson",
+                "lastName": "Drew"
+            },
+            {
+                "name": "Johnson, Henry",
+                "url": "https://tinyurl.com/5thft9j8",
+                "email": "Henry.Johnson@mail.house.gov",
+                "firstName": "Johnson",
+                "lastName": "Henry"
+            },
+            {
+                "name": "Williams, Nikema",
+                "url": "https://tinyurl.com/2ey82ekf",
+                "email": "Nikema.Williams@mail.house.gov",
+                "firstName": "Williams",
+                "lastName": "Nikema"
+            },
+            {
+                "name": "McCormick, Richard",
+                "url": "https://tinyurl.com/yfhs66yk",
+                "email": "Richard.McCormick@mail.house.gov",
+                "firstName": "McCormick",
+                "lastName": "Richard"
+            },
+            {
+                "name": "McBath, Lucy",
+                "url": "https://tinyurl.com/vzsde8hr",
+                "email": "Lucy.McBath@mail.house.gov",
+                "firstName": "McBath",
+                "lastName": "Lucy"
+            },
+            {
+                "name": "Scott, Austin",
+                "url": "https://tinyurl.com/y2m5rxhv",
+                "email": "Austin.Scott@mail.house.gov",
+                "firstName": "Scott",
+                "lastName": "Austin"
+            },
+            {
+                "name": "Clyde, Andrew",
+                "url": "https://tinyurl.com/mr43t6j4",
+                "email": "Andrew.Clyde@mail.house.gov",
+                "firstName": "Clyde",
+                "lastName": "Andrew"
+            },
+            {
+                "name": "Collins, Mike",
+                "url": "https://tinyurl.com/ye9ckckx",
+                "email": "Mike.Collins@mail.house.gov",
+                "firstName": "Collins",
+                "lastName": "Mike"
+            },
+            {
+                "name": "Loudermilk, Barry",
+                "url": "https://tinyurl.com/3k2jm698",
+                "email": "Barry.Loudermilk@mail.house.gov",
+                "firstName": "Loudermilk",
+                "lastName": "Barry"
+            },
+            {
+                "name": "Allen, Rick",
+                "url": "https://tinyurl.com/yx84u9kb",
+                "email": "lauren.hodge@mail.house.gov",
+                "firstName": "Allen",
+                "lastName": "Rick"
+            },
+            {
+                "name": "Scott, David",
+                "url": "https://tinyurl.com/yc6bd83r",
+                "email": "David.Scott@mail.house.gov",
+                "firstName": "Scott",
+                "lastName": "David"
+            },
+            {
+                "name": "Greene, Marjorie",
+                "url": "https://tinyurl.com/5efv8tre",
+                "email": "Marjorie.Greene@mail.house.gov",
+                "firstName": "Greene",
+                "lastName": "Marjorie"
+            }
+        ]
+    },
+    "Hawaii": {
+        "senators": [
+            {
+                "name": "Mazie Hirono",
+                "url": "https://tinyurl.com/mty87dum",
+                "email": "coti_haia@hirono.senate.gov",
+                "firstName": "Mazie",
+                "lastName": "Hirono"
+            },
+            {
+                "name": "Brian Schatz",
+                "url": "https://tinyurl.com/ywujkrbm",
+                "email": "brian_schatz@schatz.senate.gov",
+                "firstName": "Brian",
+                "lastName": "Schatz"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Case, Ed",
+                "url": "https://tinyurl.com/3hxemvf7",
+                "email": "Ed.Case@mail.house.gov",
+                "firstName": "Case",
+                "lastName": "Ed"
+            },
+            {
+                "name": "Tokuda, Jill",
+                "url": "https://tinyurl.com/bdd7ewdh",
+                "email": "Jill.Tokuda@mail.house.gov",
+                "firstName": "Tokuda",
+                "lastName": "Jill"
+            }
+        ]
+    },
+    "Idaho": {
+        "senators": [
+            {
+                "name": "Mike Crapo",
+                "url": "https://tinyurl.com/ynk55p3f",
+                "email": "susan_wheeler@crapo.senate.gov",
+                "firstName": "Mike",
+                "lastName": "Crapo"
+            },
+            {
+                "name": "James Risch",
+                "url": "https://tinyurl.com/ms9ed25h",
+                "email": "ryan_white@risch.senate.gov",
+                "firstName": "James",
+                "lastName": "Risch"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Fulcher, Russ",
+                "url": "https://tinyurl.com/45zmdvvr",
+                "email": "Russ.Fulcher@mail.house.gov",
+                "firstName": "Fulcher",
+                "lastName": "Russ"
+            },
+            {
+                "name": "Simpson, Michael",
+                "url": "https://tinyurl.com/4zpej6uk",
+                "email": "Michael.Simpson@mail.house.gov",
+                "firstName": "Simpson",
+                "lastName": "Michael"
+            }
+        ]
+    },
+    "Illinois": {
+        "senators": [
+            {
+                "name": "Tammy Duckworth",
+                "url": "https://tinyurl.com/42dknjkc",
+                "email": "tammy_duckworth@duckworth.senate.gov",
+                "firstName": "Tammy",
+                "lastName": "Duckworth"
+            },
+            {
+                "name": "Dick Durbin",
+                "url": "https://tinyurl.com/5eyersbh",
+                "email": "pat_souders@durbin.senate.gov",
+                "firstName": "Dick",
+                "lastName": "Durbin"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Jackson, Jonathan",
+                "url": "https://tinyurl.com/sfjb4zyy",
+                "email": "Jonathan.Jackson@mail.house.gov",
+                "firstName": "Jackson",
+                "lastName": "Jonathan"
+            },
+            {
+                "name": "Kelly, Robin",
+                "url": "https://tinyurl.com/yz9khh3f",
+                "email": "Robin.Kelly@mail.house.gov",
+                "firstName": "Kelly",
+                "lastName": "Robin"
+            },
+            {
+                "name": "Ramirez, Delia",
+                "url": "https://tinyurl.com/bdf5xccx",
+                "email": "Delia.Ramirez@mail.house.gov",
+                "firstName": "Ramirez",
+                "lastName": "Delia"
+            },
+            {
+                "name": "Garcia, Jesus",
+                "url": "https://tinyurl.com/ycytxjt2",
+                "email": "Jesus.Garcia@mail.house.gov",
+                "firstName": "Garcia",
+                "lastName": "Jesus"
+            },
+            {
+                "name": "Quigley, Mike",
+                "url": "https://tinyurl.com/42yfytma",
+                "email": "Mike.Quigley@mail.house.gov",
+                "firstName": "Quigley",
+                "lastName": "Mike"
+            },
+            {
+                "name": "Casten, Sean",
+                "url": "https://tinyurl.com/yesrz6ph",
+                "email": "Sean.Casten@mail.house.gov",
+                "firstName": "Casten",
+                "lastName": "Sean"
+            },
+            {
+                "name": "Davis, Danny",
+                "url": "https://tinyurl.com/mr3nhkr5",
+                "email": "Danny.Davis@mail.house.gov",
+                "firstName": "Davis",
+                "lastName": "Danny"
+            },
+            {
+                "name": "Krishnamoorthi, Raja",
+                "url": "https://tinyurl.com/3v2de4ak",
+                "email": "Raja.Krishnamoorthi@mail.house.gov",
+                "firstName": "Krishnamoorthi",
+                "lastName": "Raja"
+            },
+            {
+                "name": "Schakowsky, Janice",
+                "url": "https://tinyurl.com/6ecpnk9h",
+                "email": "Janice.Schakowsky@mail.house.gov",
+                "firstName": "Schakowsky",
+                "lastName": "Janice"
+            },
+            {
+                "name": "Schneider, Bradley",
+                "url": "https://tinyurl.com/2pbyza6s",
+                "email": "casey.o'shea@mail.house.gov",
+                "firstName": "Schneider",
+                "lastName": "Bradley"
+            },
+            {
+                "name": "Foster, Bill",
+                "url": "https://tinyurl.com/35nafnfm",
+                "email": "Samantha.Warren@mail.house.gov",
+                "firstName": "Foster",
+                "lastName": "Bill"
+            },
+            {
+                "name": "Bost, Mike",
+                "url": "https://tinyurl.com/bdh6r7nr",
+                "email": "matt.mccullough@mail.house.gov",
+                "firstName": "Bost",
+                "lastName": "Mike"
+            },
+            {
+                "name": "Budzinski, Nikki",
+                "url": "https://tinyurl.com/4menu7nr",
+                "email": "Nikki.Budzinski@mail.house.gov",
+                "firstName": "Budzinski",
+                "lastName": "Nikki"
+            },
+            {
+                "name": "Underwood, Lauren",
+                "url": "https://tinyurl.com/22xmv6k4",
+                "email": "Lauren.Underwood@mail.house.gov",
+                "firstName": "Underwood",
+                "lastName": "Lauren"
+            },
+            {
+                "name": "Miller, Mary",
+                "url": "https://tinyurl.com/ycyndyeh",
+                "email": "Mary.Miller@mail.house.gov",
+                "firstName": "Miller",
+                "lastName": "Mary"
+            },
+            {
+                "name": "LaHood, Darin",
+                "url": "https://tinyurl.com/3va9dmku",
+                "email": "Darin.LaHood@mail.house.gov",
+                "firstName": "LaHood",
+                "lastName": "Darin"
+            },
+            {
+                "name": "Sorensen, Eric",
+                "url": "https://tinyurl.com/427h4fbf",
+                "email": "Eric.Sorensen@mail.house.gov",
+                "firstName": "Sorensen",
+                "lastName": "Eric"
+            }
+        ]
+    },
+    "Indiana": {
+        "senators": [
+            {
+                "name": "Mike Braun",
+                "url": "https://tinyurl.com/28xy48z4",
+                "email": "joshua_kelley@braun.senate.gov",
+                "firstName": "Mike",
+                "lastName": "Braun"
+            },
+            {
+                "name": "Todd Young",
+                "url": "https://tinyurl.com/3m594b4h",
+                "email": "john_connell@young.senate.gov",
+                "firstName": "Todd",
+                "lastName": "Young"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Mrvan, Frank",
+                "url": "https://tinyurl.com/535xdzrt",
+                "email": "Frank.Mrvan@mail.house.gov",
+                "firstName": "Mrvan",
+                "lastName": "Frank"
+            },
+            {
+                "name": "Yakym, Rudy",
+                "url": "https://tinyurl.com/94facje6",
+                "email": "Rudy.Yakym@mail.house.gov",
+                "firstName": "Yakym",
+                "lastName": "Rudy"
+            },
+            {
+                "name": "Banks, Jim",
+                "url": "https://tinyurl.com/3tzafyrz",
+                "email": "Jim.Banks@mail.house.gov",
+                "firstName": "Banks",
+                "lastName": "Jim"
+            },
+            {
+                "name": "Baird, James",
+                "url": "https://tinyurl.com/9tsszxjn",
+                "email": "James.Baird@mail.house.gov",
+                "firstName": "Baird",
+                "lastName": "James"
+            },
+            {
+                "name": "Spartz, Victoria",
+                "url": "https://tinyurl.com/3uvrzrbv",
+                "email": "Victoria.Spartz@mail.house.gov",
+                "firstName": "Spartz",
+                "lastName": "Victoria"
+            },
+            {
+                "name": "Pence, Greg",
+                "url": "https://tinyurl.com/5hxkh4yk",
+                "email": "Greg.Pence@mail.house.gov",
+                "firstName": "Pence",
+                "lastName": "Greg"
+            },
+            {
+                "name": "Carson, Andre",
+                "url": "https://tinyurl.com/4kewm7ca",
+                "email": "Andre.Carson@mail.house.gov",
+                "firstName": "Carson",
+                "lastName": "Andre"
+            },
+            {
+                "name": "Bucshon, Larry",
+                "url": "https://tinyurl.com/3nc9s534",
+                "email": "Larry.Bucshon@mail.house.gov",
+                "firstName": "Bucshon",
+                "lastName": "Larry"
+            },
+            {
+                "name": "Houchin, Erin",
+                "url": "https://tinyurl.com/d9evy2r8",
+                "email": "Erin.Houchin@mail.house.gov",
+                "firstName": "Houchin",
+                "lastName": "Erin"
+            }
+        ]
+    },
+    "Iowa": {
+        "senators": [
+            {
+                "name": "Charles E. Grassley",
+                "url": "https://tinyurl.com/9nm56anz",
+                "email": "chuck_grassley@grassley.senate.gov",
+                "firstName": "Charles",
+                "lastName": "Grassley"
+            },
+            {
+                "name": "Joni Ernst",
+                "url": "https://tinyurl.com/ydrtbzha",
+                "email": "senator_ernst@ernst.senate.gov",
+                "firstName": "Joni",
+                "lastName": "Ernst"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Miller-Meeks, Mariannette",
+                "url": "https://tinyurl.com/ykh9c294",
+                "email": "Mariannette.Miller-Meeks@mail.house.gov",
+                "firstName": "Miller-Meeks",
+                "lastName": "Mariannette"
+            },
+            {
+                "name": "Hinson, Ashley",
+                "url": "https://tinyurl.com/4n7bt2zp",
+                "email": "Ashley.Hinson@mail.house.gov",
+                "firstName": "Hinson",
+                "lastName": "Ashley"
+            },
+            {
+                "name": "Nunn, Zachary",
+                "url": "https://tinyurl.com/4n3u37ya",
+                "email": "Zachary.Nunn@mail.house.gov",
+                "firstName": "Nunn",
+                "lastName": "Zachary"
+            },
+            {
+                "name": "Feenstra, Randy",
+                "url": "https://tinyurl.com/2f2p7abx",
+                "email": "Randy.Feenstra@mail.house.gov",
+                "firstName": "Feenstra",
+                "lastName": "Randy"
+            }
+        ]
+    },
+    "Kansas": {
+        "senators": [
+            {
+                "name": "Roger Marshall",
+                "url": "https://tinyurl.com/27kujfhp",
+                "email": "brent_robertson@marshall.senate.gov",
+                "firstName": "Roger",
+                "lastName": "Marshall"
+            },
+            {
+                "name": "Jerry Moran",
+                "url": "https://tinyurl.com/s22pw4b2",
+                "email": "jerry_moran@moran.senate.gov",
+                "firstName": "Jerry",
+                "lastName": "Moran"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Mann, Tracey",
+                "url": "https://tinyurl.com/4a9hwe6n",
+                "email": "Tracey.Mann@mail.house.gov",
+                "firstName": "Mann",
+                "lastName": "Tracey"
+            },
+            {
+                "name": "LaTurner, Jake",
+                "url": "https://tinyurl.com/2s98uduf",
+                "email": "Jake.LaTurner@mail.house.gov",
+                "firstName": "LaTurner",
+                "lastName": "Jake"
+            },
+            {
+                "name": "Davids, Sharice",
+                "url": "https://tinyurl.com/m3x2b4ra",
+                "email": "Sharice.Davids@mail.house.gov",
+                "firstName": "Davids",
+                "lastName": "Sharice"
+            },
+            {
+                "name": "Estes, Ron",
+                "url": "https://tinyurl.com/4cwfjbcn",
+                "email": "josh.bell@mail.house.gov",
+                "firstName": "Estes",
+                "lastName": "Ron"
+            }
+        ]
+    },
+    "Kentucky": {
+        "senators": [
+            {
+                "name": "Mitch McConnell",
+                "url": "https://tinyurl.com/yhd5w7xa",
+                "email": "mitch_mcconnell@mcconnell.senate.gov",
+                "firstName": "Mitch",
+                "lastName": "McConnell"
+            },
+            {
+                "name": "Rand Paul",
+                "url": "https://tinyurl.com/y8awfx65",
+                "email": "rand_paul@paul.senate.gov",
+                "firstName": "Rand",
+                "lastName": "Paul"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Nathaniel Moran",
+                "url": "https://tinyurl.com/2wh3z72h",
+                "email": "Nathaniel.Moran@mail.house.gov",
+                "firstName": "Nathaniel",
+                "lastName": "Moran"
+            },
+            {
+                "name": "Comer, James",
+                "url": "https://tinyurl.com/2s3psedf",
+                "email": "James.Comer@mail.house.gov",
+                "firstName": "Comer",
+                "lastName": "James"
+            },
+            {
+                "name": "Guthrie, Brett",
+                "url": "https://tinyurl.com/3779k57e",
+                "email": "Brett.Guthrie@mail.house.gov",
+                "firstName": "Guthrie",
+                "lastName": "Brett"
+            },
+            {
+                "name": "McGarvey, Morgan",
+                "url": "https://tinyurl.com/3kn3rty6",
+                "email": "Morgan.McGarvey@mail.house.gov",
+                "firstName": "McGarvey",
+                "lastName": "Morgan"
+            },
+            {
+                "name": "Massie, Thomas",
+                "url": "https://tinyurl.com/26hy5bdu",
+                "email": "Thomas.Massie@mail.house.gov",
+                "firstName": "Massie",
+                "lastName": "Thomas"
+            },
+            {
+                "name": "Rogers, Harold",
+                "url": "https://tinyurl.com/3wtxnruz",
+                "email": "Harold.Rogers@mail.house.gov",
+                "firstName": "Rogers",
+                "lastName": "Harold"
+            },
+            {
+                "name": "Barr, Andy",
+                "url": "https://tinyurl.com/2pd3akcs",
+                "email": "Andy.Barr@mail.house.gov",
+                "firstName": "Barr",
+                "lastName": "Andy"
+            }
+        ]
+    },
+    "Louisiana": {
+        "senators": [
+            {
+                "name": "John Neely Kennedy",
+                "url": "https://tinyurl.com/299bc695",
+                "email": "john_kennedy@kennedy.senate.gov",
+                "firstName": "John",
+                "lastName": "Kennedy"
+            },
+            {
+                "name": "Bill Cassidy",
+                "url": "https://tinyurl.com/2svks5e3",
+                "email": "bill_cassidy@cassidy.senate.gov",
+                "firstName": "Bill",
+                "lastName": "Cassidy"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Scalise, Steve",
+                "url": "https://tinyurl.com/32zvk2rc",
+                "email": "megan.miller@mail.house.gov",
+                "firstName": "Scalise",
+                "lastName": "Steve"
+            },
+            {
+                "name": "Carter, Troy",
+                "url": "https://tinyurl.com/5awc8dh6",
+                "email": "Troy.Carter@mail.house.gov",
+                "firstName": "Carter",
+                "lastName": "Troy"
+            },
+            {
+                "name": "Higgins, Clay",
+                "url": "https://tinyurl.com/ycxseyrb",
+                "email": "Clay.Higgins@mail.house.gov",
+                "firstName": "Higgins",
+                "lastName": "Clay"
+            },
+            {
+                "name": "Johnson, Mike",
+                "url": "https://tinyurl.com/mrxv6p8h",
+                "email": "Mike.Johnson@mail.house.gov",
+                "firstName": "Johnson",
+                "lastName": "Mike"
+            },
+            {
+                "name": "Letlow, Julia",
+                "url": "https://tinyurl.com/4395hdkx",
+                "email": "Julia.Letlow@mail.house.gov",
+                "firstName": "Letlow",
+                "lastName": "Julia"
+            },
+            {
+                "name": "Graves, Garret",
+                "url": "https://tinyurl.com/mrauu5mr",
+                "email": "Garret.Graves@mail.house.gov",
+                "firstName": "Graves",
+                "lastName": "Garret"
+            }
+        ]
+    },
+    "Maine": {
+        "senators": [
+            {
+                "name": "Susan Collins",
+                "url": "https://tinyurl.com/3t5b35fm",
+                "email": "susan_collins@collins.senate.gov",
+                "firstName": "Susan",
+                "lastName": "Collins"
+            },
+            {
+                "name": "Angus King",
+                "url": "https://tinyurl.com/458jz289",
+                "email": "angus_king@king.senate.gov",
+                "firstName": "Angus",
+                "lastName": "King"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Pingree, Chellie",
+                "url": "https://tinyurl.com/bdzahs3r",
+                "email": "Jesse.Connolly@mail.house.gov",
+                "firstName": "Pingree",
+                "lastName": "Chellie"
+            },
+            {
+                "name": "Golden, Jared",
+                "url": "https://tinyurl.com/22mdpj57",
+                "email": "Jared.Golden@mail.house.gov",
+                "firstName": "Golden",
+                "lastName": "Jared"
+            }
+        ]
+    },
+    "Maryland": {
+        "senators": [
+            {
+                "name": "Ben Cardin",
+                "url": "https://tinyurl.com/y54p8fhw",
+                "email": "ben_cardin@cardin.senate.gov",
+                "firstName": "Ben",
+                "lastName": "Cardin"
+            },
+            {
+                "name": "Chris Van Hollen",
+                "url": "https://tinyurl.com/cjtjwjae",
+                "email": "tricia_russell@vanhollen.senate.gov",
+                "firstName": "Chris",
+                "lastName": "Hollen"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Harris, Andy",
+                "url": "https://tinyurl.com/mszuc4jn",
+                "email": "Andy.Harris@mail.house.gov",
+                "firstName": "Harris",
+                "lastName": "Andy"
+            },
+            {
+                "name": "Ruppersberger, Dutch",
+                "url": "https://tinyurl.com/m78s77zr",
+                "email": "dutch.ruppersberger@mail.house.gov",
+                "firstName": "Ruppersberger",
+                "lastName": "Dutch"
+            },
+            {
+                "name": "Sarbanes, John",
+                "url": "https://tinyurl.com/bdbfsmxw",
+                "email": "John.Sarbanes@mail.house.gov",
+                "firstName": "Sarbanes",
+                "lastName": "John"
+            },
+            {
+                "name": "Ivey, Glenn",
+                "url": "https://tinyurl.com/yc8cd3nz",
+                "email": "Glenn.Ivey@mail.house.gov",
+                "firstName": "Ivey",
+                "lastName": "Glenn"
+            },
+            {
+                "name": "Hoyer, Steny",
+                "url": "https://tinyurl.com/4xscfkce",
+                "email": "jim.notter@mail.house.gov",
+                "firstName": "Hoyer",
+                "lastName": "Steny"
+            },
+            {
+                "name": "Trone, David",
+                "url": "https://tinyurl.com/4j37j87h",
+                "email": "David.Trone@mail.house.gov",
+                "firstName": "Trone",
+                "lastName": "David"
+            },
+            {
+                "name": "Mfume, Kweisi",
+                "url": "https://tinyurl.com/2a3fbe25",
+                "email": "Kweisi.Mfume@mail.house.gov",
+                "firstName": "Mfume",
+                "lastName": "Kweisi"
+            },
+            {
+                "name": "Raskin, Jamie",
+                "url": "https://tinyurl.com/mrya6ftm",
+                "email": "Jamie.Raskin@mail.house.gov",
+                "firstName": "Raskin",
+                "lastName": "Jamie"
+            }
+        ]
+    },
+    "Massachusetts": {
+        "senators": [
+            {
+                "name": "Elizabeth Warren",
+                "url": "https://tinyurl.com/2p9swbzc",
+                "email": "elizabeth_warren@warren.senate.gov",
+                "firstName": "Elizabeth",
+                "lastName": "Warren"
+            },
+            {
+                "name": "Ed Markey",
+                "url": "https://tinyurl.com/vuvhnfw2",
+                "email": "senator_markey@markey.senate.gov",
+                "firstName": "Ed",
+                "lastName": "Markey"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Neal, Richard",
+                "url": "https://tinyurl.com/2s35ey9x",
+                "email": "Elizabeth.O'Hara@mail.house.gov",
+                "firstName": "Neal",
+                "lastName": "Richard"
+            },
+            {
+                "name": "McGovern, James",
+                "url": "https://tinyurl.com/4rtt5mk4",
+                "email": "James.McGovern@mail.house.gov",
+                "firstName": "McGovern",
+                "lastName": "James"
+            },
+            {
+                "name": "Trahan, Lori",
+                "url": "https://tinyurl.com/ymvyhfbf",
+                "email": "Lori.Trahan@mail.house.gov",
+                "firstName": "Trahan",
+                "lastName": "Lori"
+            },
+            {
+                "name": "Auchincloss, Jake",
+                "url": "https://tinyurl.com/4kphwx8c",
+                "email": "Jake.Auchincloss@mail.house.gov",
+                "firstName": "Auchincloss",
+                "lastName": "Jake"
+            },
+            {
+                "name": "Clark, Katherine",
+                "url": "https://tinyurl.com/3cs244mm",
+                "email": "Katherine.Clark@mail.house.gov",
+                "firstName": "Clark",
+                "lastName": "Katherine"
+            },
+            {
+                "name": "Moulton, Seth",
+                "url": "https://tinyurl.com/48nfvz6u",
+                "email": "Seth.Moulton@mail.house.gov",
+                "firstName": "Moulton",
+                "lastName": "Seth"
+            },
+            {
+                "name": "Pressley, Ayanna",
+                "url": "https://tinyurl.com/tsvc8wff",
+                "email": "Ayanna.Pressley@mail.house.gov",
+                "firstName": "Pressley",
+                "lastName": "Ayanna"
+            },
+            {
+                "name": "Lynch, Stephen",
+                "url": "https://tinyurl.com/2xncf5ys",
+                "email": "Stephen.Lynch@mail.house.gov",
+                "firstName": "Lynch",
+                "lastName": "Stephen"
+            },
+            {
+                "name": "Keating, William",
+                "url": "https://tinyurl.com/mphv835j",
+                "email": "William.Keating@mail.house.gov",
+                "firstName": "Keating",
+                "lastName": "William"
+            }
+        ]
+    },
+    "Michigan": {
+        "senators": [
+            {
+                "name": "Debbie Stabenow",
+                "url": "https://tinyurl.com/ye26upux",
+                "email": "senator@stabenow.senate.gov",
+                "firstName": "Debbie",
+                "lastName": "Stabenow"
+            },
+            {
+                "name": "Gary Peters",
+                "url": "https://tinyurl.com/4xmp4jed",
+                "email": "caitlyn_stephenson@peters.senate.gov",
+                "firstName": "Gary",
+                "lastName": "Peters"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Bergman, Jack",
+                "url": "https://tinyurl.com/5fcawh3j",
+                "email": "tony.lis@mail.house.gov",
+                "firstName": "Bergman",
+                "lastName": "Jack"
+            },
+            {
+                "name": "Moolenaar, John",
+                "url": "https://tinyurl.com/3kyrvkd8",
+                "email": "John.Moolenaar@mail.house.gov",
+                "firstName": "Moolenaar",
+                "lastName": "John"
+            },
+            {
+                "name": "Scholten, Hillary",
+                "url": "https://tinyurl.com/yncckdnh",
+                "email": "Hillary.Scholten@mail.house.gov",
+                "firstName": "Scholten",
+                "lastName": "Hillary"
+            },
+            {
+                "name": "Huizenga, Bill",
+                "url": "https://tinyurl.com/28rnwurs",
+                "email": "Bill.Huizenga@mail.house.gov",
+                "firstName": "Huizenga",
+                "lastName": "Bill"
+            },
+            {
+                "name": "Walberg, Tim",
+                "url": "https://tinyurl.com/bdhurbmn",
+                "email": "Tim.Walberg@mail.house.gov",
+                "firstName": "Walberg",
+                "lastName": "Tim"
+            },
+            {
+                "name": "Dingell, Debbie",
+                "url": "https://tinyurl.com/35drddfz",
+                "email": "Debbie.Dingell@mail.house.gov",
+                "firstName": "Dingell",
+                "lastName": "Debbie"
+            },
+            {
+                "name": "Slotkin, Elissa",
+                "url": "https://tinyurl.com/mscvt6yn",
+                "email": "Elissa.Slotkin@mail.house.gov",
+                "firstName": "Slotkin",
+                "lastName": "Elissa"
+            },
+            {
+                "name": "Kildee, Daniel",
+                "url": "https://tinyurl.com/3ud259me",
+                "email": "Daniel.Kildee@mail.house.gov",
+                "firstName": "Kildee",
+                "lastName": "Daniel"
+            },
+            {
+                "name": "McClain, Lisa",
+                "url": "https://tinyurl.com/2rnnebrd",
+                "email": "Lisa.McClain@mail.house.gov",
+                "firstName": "McClain",
+                "lastName": "Lisa"
+            },
+            {
+                "name": "James, John",
+                "url": "https://tinyurl.com/9a6az9dn",
+                "email": "John.James@mail.house.gov",
+                "firstName": "James",
+                "lastName": "John"
+            },
+            {
+                "name": "Stevens, Haley",
+                "url": "https://tinyurl.com/y4f32jb5",
+                "email": "Haley.Stevens@mail.house.gov",
+                "firstName": "Stevens",
+                "lastName": "Haley"
+            },
+            {
+                "name": "Tlaib, Rashida",
+                "url": "https://tinyurl.com/mrpf36fy",
+                "email": "Rashida.Tlaib@mail.house.gov",
+                "firstName": "Tlaib",
+                "lastName": "Rashida"
+            },
+            {
+                "name": "Thanedar, Shri",
+                "url": "https://tinyurl.com/33pbtxte",
+                "email": "Shri.Thanedar@mail.house.gov",
+                "firstName": "Thanedar",
+                "lastName": "Shri"
+            }
+        ]
+    },
+    "Minnesota": {
+        "senators": [
+            {
+                "name": "Amy Klobuchar",
+                "url": "https://tinyurl.com/5n6jdyyh",
+                "email": "senator@klobuchar.senate.gov",
+                "firstName": "Amy",
+                "lastName": "Klobuchar"
+            },
+            {
+                "name": "Tina Smith",
+                "url": "https://tinyurl.com/pfu366yx",
+                "email": "senator_smith@smith.senate.gov",
+                "firstName": "Tina",
+                "lastName": "Smith"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Finstad, Brad",
+                "url": "https://tinyurl.com/3tbnnhd4",
+                "email": "Brad.Finstad@mail.house.gov",
+                "firstName": "Finstad",
+                "lastName": "Brad"
+            },
+            {
+                "name": "Craig, Angie",
+                "url": "https://tinyurl.com/4j76adm2",
+                "email": "Angie.Craig@mail.house.gov",
+                "firstName": "Craig",
+                "lastName": "Angie"
+            },
+            {
+                "name": "Phillips, Dean",
+                "url": "https://tinyurl.com/yyndrt2f",
+                "email": "Dean.Phillips@mail.house.gov",
+                "firstName": "Phillips",
+                "lastName": "Dean"
+            },
+            {
+                "name": "McCollum, Betty",
+                "url": "https://tinyurl.com/55kt4jp8",
+                "email": "Betty.McCollum@mail.house.gov",
+                "firstName": "McCollum",
+                "lastName": "Betty"
+            },
+            {
+                "name": "Omar, Ilhan",
+                "url": "https://tinyurl.com/3acu8ev4",
+                "email": "Ilhan.Omar@mail.house.gov",
+                "firstName": "Omar",
+                "lastName": "Ilhan"
+            },
+            {
+                "name": "Emmer, Tom",
+                "url": "https://tinyurl.com/4wrm5h5a",
+                "email": "Tom.Emmer@mail.house.gov",
+                "firstName": "Emmer",
+                "lastName": "Tom"
+            },
+            {
+                "name": "Fischbach, Michelle",
+                "url": "https://tinyurl.com/3awxf79b",
+                "email": "Michelle.Fischbach@mail.house.gov",
+                "firstName": "Fischbach",
+                "lastName": "Michelle"
+            },
+            {
+                "name": "Stauber, Pete",
+                "url": "https://tinyurl.com/55e7x92d",
+                "email": "Pete.Stauber@mail.house.gov",
+                "firstName": "Stauber",
+                "lastName": "Pete"
+            }
+        ]
+    },
+    "Mississippi": {
+        "senators": [
+            {
+                "name": "Cindy Hyde-Smith",
+                "url": "https://tinyurl.com/yvr7caf7",
+                "email": "cindy_hyde-smith@hyde-smith.senate.gov",
+                "firstName": "Cindy",
+                "lastName": "Hyde-Smith"
+            },
+            {
+                "name": "Roger Wicker",
+                "url": "https://tinyurl.com/23rkxvze",
+                "email": "roger_wicker@wicker.senate.gov",
+                "firstName": "Roger",
+                "lastName": "Wicker"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Kelly, Trent",
+                "url": "https://tinyurl.com/2at9bkuk",
+                "email": "Trent.Kelly@mail.house.gov",
+                "firstName": "Kelly",
+                "lastName": "Trent"
+            },
+            {
+                "name": "Thompson, Bennie",
+                "url": "https://tinyurl.com/mr4dhd8s",
+                "email": "Bennie.Thompson@mail.house.gov",
+                "firstName": "Thompson",
+                "lastName": "Bennie"
+            },
+            {
+                "name": "Guest, Michael",
+                "url": "https://tinyurl.com/3e83ufzz",
+                "email": "Michael.Guest@mail.house.gov",
+                "firstName": "Guest",
+                "lastName": "Michael"
+            },
+            {
+                "name": "Ezell, Mike",
+                "url": "https://tinyurl.com/2n9hdnun",
+                "email": "Mike.Ezell@mail.house.gov",
+                "firstName": "Ezell",
+                "lastName": "Mike"
+            }
+        ]
+    },
+    "Missouri": {
+        "senators": [
+            {
+                "name": "Josh Hawley",
+                "url": "https://tinyurl.com/44n358ku",
+                "email": "senatorhawley@hawley.senate.gov",
+                "firstName": "Josh",
+                "lastName": "Hawley"
+            },
+            {
+                "name": "Eric Schmitt",
+                "url": "https://tinyurl.com/4eatfdvw",
+                "email": "jimmy_peacock@schmitt.senate.gov",
+                "firstName": "Eric",
+                "lastName": "Schmitt"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Bush, Cori",
+                "url": "https://tinyurl.com/479cpny2",
+                "email": "Cori.Bush@mail.house.gov",
+                "firstName": "Bush",
+                "lastName": "Cori"
+            },
+            {
+                "name": "Wagner, Ann",
+                "url": "https://tinyurl.com/mr4dd333",
+                "email": "Ann.Wagner@mail.house.gov",
+                "firstName": "Wagner",
+                "lastName": "Ann"
+            },
+            {
+                "name": "Luetkemeyer, Blaine",
+                "url": "https://tinyurl.com/sene4pwt",
+                "email": "Blaine.Luetkemeyer@mail.house.gov",
+                "firstName": "Luetkemeyer",
+                "lastName": "Blaine"
+            },
+            {
+                "name": "Alford, Mark",
+                "url": "https://tinyurl.com/3vtuwjkt",
+                "email": "Mark.Alford@mail.house.gov",
+                "firstName": "Alford",
+                "lastName": "Mark"
+            },
+            {
+                "name": "Cleaver, Emanuel",
+                "url": "https://tinyurl.com/4skk9hyj",
+                "email": "Emanuel.Cleaver@mail.house.gov",
+                "firstName": "Cleaver",
+                "lastName": "Emanuel"
+            },
+            {
+                "name": "Graves, Sam",
+                "url": "https://tinyurl.com/542jcr3r",
+                "email": "Sam.Graves@mail.house.gov",
+                "firstName": "Graves",
+                "lastName": "Sam"
+            },
+            {
+                "name": "Burlison, Eric",
+                "url": "https://tinyurl.com/4eyxcmy5",
+                "email": "aaron.calkins@mail.house.gov",
+                "firstName": "Burlison",
+                "lastName": "Eric"
+            },
+            {
+                "name": "Smith, Jason",
+                "url": "https://tinyurl.com/p6zabbdd",
+                "email": "Jason.Smith@mail.house.gov",
+                "firstName": "Smith",
+                "lastName": "Jason"
+            }
+        ]
+    },
+    "Montana": {
+        "senators": [
+            {
+                "name": "John Tester",
+                "url": "https://tinyurl.com/4ktkvfcj",
+                "email": "dylan_laslovich@tester.senate.gov",
+                "firstName": "John",
+                "lastName": "Tester"
+            },
+            {
+                "name": "Steve Daines",
+                "url": "https://tinyurl.com/8da33ht6",
+                "email": "darin_thacker@daines.senate.gov",
+                "firstName": "Steve",
+                "lastName": "Daines"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Zinke, Ryan",
+                "url": "https://tinyurl.com/3hn5t8ad",
+                "email": "Ryan.Zinke@mail.house.gov",
+                "firstName": "Zinke",
+                "lastName": "Ryan"
+            },
+            {
+                "name": "Rosendale, Matthew",
+                "url": "https://tinyurl.com/35bkbtuy",
+                "email": "Matthew.Rosendale@mail.house.gov",
+                "firstName": "Rosendale",
+                "lastName": "Matthew"
+            }
+        ]
+    },
+    "Nebraska": {
+        "senators": [
+            {
+                "name": "Deb Fischer",
+                "url": "https://tinyurl.com/5n89352v",
+                "email": "senator_fischer@fischer.senate.gov",
+                "firstName": "Deb",
+                "lastName": "Fischer"
+            },
+            {
+                "name": "Pete Ricketts",
+                "url": "https://tinyurl.com/4dt6pvvv",
+                "email": "matt_miltenberger@ricketts.senate.gov",
+                "firstName": "Pete",
+                "lastName": "Ricketts"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Flood, Mike",
+                "url": "https://tinyurl.com/4wx98bp7",
+                "email": "Mike.Flood@mail.house.gov",
+                "firstName": "Flood",
+                "lastName": "Mike"
+            },
+            {
+                "name": "Bacon, Don",
+                "url": "https://tinyurl.com/268aexcj",
+                "email": "Don.Bacon@mail.house.gov",
+                "firstName": "Bacon",
+                "lastName": "Don"
+            },
+            {
+                "name": "Smith, Adrian",
+                "url": "https://tinyurl.com/55cbuc22",
+                "email": "Adrian.Smith@mail.house.gov",
+                "firstName": "Smith",
+                "lastName": "Adrian"
+            }
+        ]
+    },
+    "Nevada": {
+        "senators": [
+            {
+                "name": "Jacky Rosen",
+                "url": "https://tinyurl.com/83bktz49",
+                "email": "jacky_rosen@rosen.senate.gov",
+                "firstName": "Jacky",
+                "lastName": "Rosen"
+            },
+            {
+                "name": "Catherine Cortez Masto",
+                "url": "https://tinyurl.com/4eyvemh",
+                "email": "bridget_kelleher@cortezmasto.senate.gov",
+                "firstName": "Catherine",
+                "lastName": "Masto"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Titus, Dina",
+                "url": "https://tinyurl.com/nccvprpf",
+                "email": "jay.gertsema@mail.house.gov",
+                "firstName": "Titus",
+                "lastName": "Dina"
+            },
+            {
+                "name": "Amodei, Mark",
+                "url": "https://tinyurl.com/ym8eyzd3",
+                "email": "Mark.Amodei@mail.house.gov",
+                "firstName": "Amodei",
+                "lastName": "Mark"
+            },
+            {
+                "name": "Lee, Susie",
+                "url": "https://tinyurl.com/4sbkdwep",
+                "email": "Susie.Lee@mail.house.gov",
+                "firstName": "Lee",
+                "lastName": "Susie"
+            },
+            {
+                "name": "Horsford, Steven",
+                "url": "https://tinyurl.com/4bcjcjp2",
+                "email": "Steven.Horsford@mail.house.gov",
+                "firstName": "Horsford",
+                "lastName": "Steven"
+            }
+        ]
+    },
+    "New Hampshire": {
+        "senators": [
+            {
+                "name": "Maggie Hassan",
+                "url": "https://tinyurl.com/3en27nc5",
+                "email": "dave_christie@hassan.senate.gov",
+                "firstName": "Maggie",
+                "lastName": "Hassan"
+            },
+            {
+                "name": "Jeanne Shaheen",
+                "url": "https://tinyurl.com/3ucvd3vj",
+                "email": "jeanne_shaheen@shaheen.senate.gov",
+                "firstName": "Jeanne",
+                "lastName": "Shaheen"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Pappas, Chris",
+                "url": "https://tinyurl.com/5fpec8ka",
+                "email": "Chris.Pappas@mail.house.gov",
+                "firstName": "Pappas",
+                "lastName": "Chris"
+            },
+            {
+                "name": "Kuster, Ann",
+                "url": "https://tinyurl.com/3n5rz4p8",
+                "email": "Ann.Kuster@mail.house.gov",
+                "firstName": "Kuster",
+                "lastName": "Ann"
+            }
+        ]
+    },
+    "New Jersey": {
+        "senators": [
+            {
+                "name": "Bob Menendez",
+                "url": "https://tinyurl.com/52n5pz6c",
+                "email": "senator_menendez@menendez.senate.gov",
+                "firstName": "Bob",
+                "lastName": "Menendez"
+            },
+            {
+                "name": "Cory Booker",
+                "url": "https://tinyurl.com/yc5dre4n",
+                "email": "veronica_duron@booker.senate.gov",
+                "firstName": "Cory",
+                "lastName": "Booker"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Norcross, Donald",
+                "url": "https://tinyurl.com/28eup525",
+                "email": "Donald.Norcross@mail.house.gov",
+                "firstName": "Norcross",
+                "lastName": "Donald"
+            },
+            {
+                "name": "Van Drew, Jefferson",
+                "url": "https://tinyurl.com/uadubf23",
+                "email": "Jefferson.Van.Drew@mail.house.gov",
+                "firstName": "Van",
+                "lastName": "Jefferson"
+            },
+            {
+                "name": "Kim, Andy",
+                "url": "https://tinyurl.com/yx44jmdw",
+                "email": "Andy.Kim@mail.house.gov",
+                "firstName": "Kim",
+                "lastName": "Andy"
+            },
+            {
+                "name": "Smith, Christopher",
+                "url": "https://tinyurl.com/mw4tfbnr",
+                "email": "Christopher.Smith@mail.house.gov",
+                "firstName": "Smith",
+                "lastName": "Christopher"
+            },
+            {
+                "name": "Gottheimer, Josh",
+                "url": "https://tinyurl.com/sezrpncd",
+                "email": "Josh.Gottheimer@mail.house.gov",
+                "firstName": "Gottheimer",
+                "lastName": "Josh"
+            },
+            {
+                "name": "Pallone, Frank",
+                "url": "https://tinyurl.com/hs596w3r",
+                "email": "Frank.Pallone@mail.house.gov",
+                "firstName": "Pallone",
+                "lastName": "Frank"
+            },
+            {
+                "name": "Kean, Thomas",
+                "url": "https://tinyurl.com/4hepp4c7",
+                "email": "Thomas.Kean@mail.house.gov",
+                "firstName": "Kean",
+                "lastName": "Thomas"
+            },
+            {
+                "name": "Menendez, Robert",
+                "url": "https://tinyurl.com/337ffmuz",
+                "email": "Robert.Menendez@mail.house.gov",
+                "firstName": "Menendez",
+                "lastName": "Robert"
+            },
+            {
+                "name": "Pascrell, Bill",
+                "url": "https://tinyurl.com/muwk8tdh",
+                "email": "Bill.Pascrell@mail.house.gov",
+                "firstName": "Pascrell",
+                "lastName": "Bill"
+            },
+            {
+                "name": "Payne, Donald",
+                "url": "https://tinyurl.com/kbtumeev",
+                "email": "nawaid.ladak@mail.house.gov",
+                "firstName": "Payne",
+                "lastName": "Donald"
+            },
+            {
+                "name": "Sherrill, Mikie",
+                "url": "https://tinyurl.com/yc6h28cx",
+                "email": "alex.ball@mail.house.gov",
+                "firstName": "Sherrill",
+                "lastName": "Mikie"
+            },
+            {
+                "name": "Watson Coleman, Bonnie",
+                "url": "https://tinyurl.com/zkhxkz7v",
+                "email": "Bonnie.Watson-Coleman@mail.house.gov",
+                "firstName": "Watson",
+                "lastName": "Bonnie"
+            }
+        ]
+    },
+    "New Mexico": {
+        "senators": [
+            {
+                "name": "Ben Ray Luján",
+                "url": "https://tinyurl.com/mry93kau",
+                "email": "graham_mason@lujan.senate.gov",
+                "firstName": "Ben",
+                "lastName": "Luján"
+            },
+            {
+                "name": "Martin Heinrich",
+                "url": "https://tinyurl.com/46cah2mw",
+                "email": "rebecca_avitia@heinrich.senate.gov",
+                "firstName": "Martin",
+                "lastName": "Heinrich"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Stansbury, Melanie",
+                "url": "https://tinyurl.com/3awuv749",
+                "email": "Melanie.Stansbury@mail.house.gov",
+                "firstName": "Stansbury",
+                "lastName": "Melanie"
+            },
+            {
+                "name": "Vasquez, Gabe",
+                "url": "https://tinyurl.com/32x67x2m",
+                "email": "Gabe.Vasquez@mail.house.gov",
+                "firstName": "Vasquez",
+                "lastName": "Gabe"
+            },
+            {
+                "name": "Leger Fernandez, Teresa",
+                "url": "https://tinyurl.com/4h7yw6mv",
+                "email": "Teresa.Leger.Fernandez@mail.house.gov",
+                "firstName": "Leger",
+                "lastName": "Teresa"
+            }
+        ]
+    },
+    "New York": {
+        "senators": [
+            {
+                "name": "Chuck Schumer",
+                "url": "https://tinyurl.com/3mv3jkkt",
+                "email": "mike_lynch@schumer.senate.gov",
+                "firstName": "Chuck",
+                "lastName": "Schumer"
+            },
+            {
+                "name": "Kirsten Gillibrand",
+                "url": "https://tinyurl.com/23nj2kdu",
+                "email": "senator_gillibrand@gillibrand.senate.gov",
+                "firstName": "Kirsten",
+                "lastName": "Gillibrand"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "LaLota, Nick",
+                "url": "https://tinyurl.com/2djam275",
+                "email": "Nick.LaLota@mail.house.gov",
+                "firstName": "LaLota",
+                "lastName": "Nick"
+            },
+            {
+                "name": "Garbarino, Andrew",
+                "url": "https://tinyurl.com/yc47fsus",
+                "email": "Andrew.Garbarino@mail.house.gov",
+                "firstName": "Garbarino",
+                "lastName": "Andrew"
+            },
+            {
+                "name": "Santos, George",
+                "url": "https://tinyurl.com/2f39efsc",
+                "email": "George.Santos@mail.house.gov",
+                "firstName": "Santos",
+                "lastName": "George"
+            },
+            {
+                "name": "D'Esposito, Anthony",
+                "url": "https://tinyurl.com/36eba6bk",
+                "email": "Anthony.DEsposito@mail.house.gov",
+                "firstName": "D'Esposito",
+                "lastName": "Anthony"
+            },
+            {
+                "name": "Meeks, Gregory",
+                "url": "https://tinyurl.com/2p9edcye",
+                "email": "Gregory.Meeks@mail.house.gov",
+                "firstName": "Meeks",
+                "lastName": "Gregory"
+            },
+            {
+                "name": "Meng, Grace",
+                "url": "https://tinyurl.com/p57t5avv",
+                "email": "maeve.healy@mail.house.gov",
+                "firstName": "Meng",
+                "lastName": "Grace"
+            },
+            {
+                "name": "Velazquez, Nydia",
+                "url": "https://tinyurl.com/fw7vu3yf",
+                "email": "Nydia.Velazquez@mail.house.gov",
+                "firstName": "Velazquez",
+                "lastName": "Nydia"
+            },
+            {
+                "name": "Jeffries, Hakeem",
+                "url": "https://tinyurl.com/343ysbm4",
+                "email": "Hakeem.Jeffries@mail.house.gov",
+                "firstName": "Jeffries",
+                "lastName": "Hakeem"
+            },
+            {
+                "name": "Clarke, Yvette",
+                "url": "https://tinyurl.com/4nk7fumw",
+                "email": "Yvette.Clarke@mail.house.gov",
+                "firstName": "Clarke",
+                "lastName": "Yvette"
+            },
+            {
+                "name": "Goldman, Daniel",
+                "url": "https://tinyurl.com/52vj53s5",
+                "email": "haley.scott@mail.house.gov",
+                "firstName": "Goldman",
+                "lastName": "Daniel"
+            },
+            {
+                "name": "Malliotakis, Nicole",
+                "url": "https://tinyurl.com/42yw3v38",
+                "email": "alex.bolton@mail.house.gov",
+                "firstName": "Malliotakis",
+                "lastName": "Nicole"
+            },
+            {
+                "name": "Nadler, Jerrold",
+                "url": "https://tinyurl.com/28tjjsp2",
+                "email": "Jerrold.Nadler@mail.house.gov",
+                "firstName": "Nadler",
+                "lastName": "Jerrold"
+            },
+            {
+                "name": "Espaillat, Adriano",
+                "url": "https://tinyurl.com/46w4573h",
+                "email": "aneiry.batista@mail.house.gov",
+                "firstName": "Espaillat",
+                "lastName": "Adriano"
+            },
+            {
+                "name": "Ocasio-Cortez, Alexandria",
+                "url": "https://tinyurl.com/2u2zubbh",
+                "email": "Alexandria.Ocasio-Cortez@mail.house.gov",
+                "firstName": "Ocasio-Cortez",
+                "lastName": "Alexandria"
+            },
+            {
+                "name": "Torres, Ritchie",
+                "url": "https://tinyurl.com/2p95cnyf",
+                "email": "Ritchie.Torres@mail.house.gov",
+                "firstName": "Torres",
+                "lastName": "Ritchie"
+            },
+            {
+                "name": "Bowman, Jamaal",
+                "url": "https://tinyurl.com/2tesre3d",
+                "email": "Jamaal.Bowman@mail.house.gov",
+                "firstName": "Bowman",
+                "lastName": "Jamaal"
+            },
+            {
+                "name": "Lawler, Michael",
+                "url": "https://tinyurl.com/yw4fvr8p",
+                "email": "Michael.Lawler@mail.house.gov",
+                "firstName": "Lawler",
+                "lastName": "Michael"
+            },
+            {
+                "name": "Ryan, Patrick",
+                "url": "https://tinyurl.com/yvfcas9f",
+                "email": "Patrick.Ryan@mail.house.gov",
+                "firstName": "Ryan",
+                "lastName": "Patrick"
+            },
+            {
+                "name": "Molinaro, Marcus",
+                "url": "https://tinyurl.com/yrhe8vp5",
+                "email": "Marcus.Molinaro@mail.house.gov",
+                "firstName": "Molinaro",
+                "lastName": "Marcus"
+            },
+            {
+                "name": "Tonko, Paul",
+                "url": "https://tinyurl.com/b9mrcf3m",
+                "email": "Paul.Tonko@mail.house.gov",
+                "firstName": "Tonko",
+                "lastName": "Paul"
+            },
+            {
+                "name": "Stefanik, Elise",
+                "url": "https://tinyurl.com/yrtdwtww",
+                "email": "Elise.Stefanik@mail.house.gov",
+                "firstName": "Stefanik",
+                "lastName": "Elise"
+            },
+            {
+                "name": "Williams, Brandon",
+                "url": "https://tinyurl.com/438aw4hz",
+                "email": "Brandon.Williams@mail.house.gov",
+                "firstName": "Williams",
+                "lastName": "Brandon"
+            },
+            {
+                "name": "Langworthy, Nicholas",
+                "url": "https://tinyurl.com/2jdemrax",
+                "email": "Nicholas.Langworthy@mail.house.gov",
+                "firstName": "Langworthy",
+                "lastName": "Nicholas"
+            },
+            {
+                "name": "Tenney, Claudia",
+                "url": "https://tinyurl.com/yd7ytepn",
+                "email": "Claudia.Tenney@mail.house.gov",
+                "firstName": "Tenney",
+                "lastName": "Claudia"
+            },
+            {
+                "name": "Morelle, Joseph",
+                "url": "https://tinyurl.com/kch2jnta",
+                "email": "Joseph.Morelle@mail.house.gov",
+                "firstName": "Morelle",
+                "lastName": "Joseph"
+            },
+            {
+                "name": "Higgins, Brian",
+                "url": "https://tinyurl.com/mphrv6wa",
+                "email": "Brian.Higgins@mail.house.gov",
+                "firstName": "Higgins",
+                "lastName": "Brian"
+            }
+        ]
+    },
+    "North Carolina": {
+        "senators": [
+            {
+                "name": "Ted Budd",
+                "url": "https://tinyurl.com/34c7vzzn",
+                "email": "tucker_knott@budd.senate.gov",
+                "firstName": "Ted",
+                "lastName": "Budd"
+            },
+            {
+                "name": "Thom Tillis",
+                "url": "https://tinyurl.com/ynprj85j",
+                "email": "shil_patel@tillis.senate.gov",
+                "firstName": "Thom",
+                "lastName": "Tillis"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Davis, Donald",
+                "url": "https://tinyurl.com/y9dshdmc",
+                "email": "Donald.Davis@mail.house.gov",
+                "firstName": "Davis",
+                "lastName": "Donald"
+            },
+            {
+                "name": "Ross, Deborah",
+                "url": "https://tinyurl.com/32aap4ax",
+                "email": "Deborah.Ross@mail.house.gov",
+                "firstName": "Ross",
+                "lastName": "Deborah"
+            },
+            {
+                "name": "Murphy, Gregory",
+                "url": "https://tinyurl.com/3bu73449",
+                "email": "Gregory.Murphy@mail.house.gov",
+                "firstName": "Murphy",
+                "lastName": "Gregory"
+            },
+            {
+                "name": "Foushee, Valerie",
+                "url": "https://tinyurl.com/bdewj3mu",
+                "email": "anna.nunn@mail.house.gov",
+                "firstName": "Foushee",
+                "lastName": "Valerie"
+            },
+            {
+                "name": "Foxx, Virginia",
+                "url": "https://tinyurl.com/yxw47nsf",
+                "email": "Virginia.Foxx@mail.house.gov",
+                "firstName": "Foxx",
+                "lastName": "Virginia"
+            },
+            {
+                "name": "Manning, Kathy",
+                "url": "https://tinyurl.com/yws4an4x",
+                "email": "Kathy.Manning@mail.house.gov",
+                "firstName": "Manning",
+                "lastName": "Kathy"
+            },
+            {
+                "name": "Rouzer, David",
+                "url": "https://tinyurl.com/v6hpp2fm",
+                "email": "anna.mccormack@mail.house.gov",
+                "firstName": "Rouzer",
+                "lastName": "David"
+            },
+            {
+                "name": "Bishop, Dan",
+                "url": "https://tinyurl.com/ynx5fhbd",
+                "email": "Dan.Bishop@mail.house.gov",
+                "firstName": "Bishop",
+                "lastName": "Dan"
+            },
+            {
+                "name": "Hudson, Richard",
+                "url": "https://tinyurl.com/jusbx3yt",
+                "email": "alex.stepahin@mail.house.gov",
+                "firstName": "Hudson",
+                "lastName": "Richard"
+            },
+            {
+                "name": "McHenry, Patrick",
+                "url": "https://tinyurl.com/bdfha624",
+                "email": "jeff.butler@mail.house.gov",
+                "firstName": "McHenry",
+                "lastName": "Patrick"
+            },
+            {
+                "name": "Edwards, Chuck",
+                "url": "https://tinyurl.com/drpamjpm",
+                "email": "Chuck.Edwards@mail.house.gov",
+                "firstName": "Edwards",
+                "lastName": "Chuck"
+            },
+            {
+                "name": "Adams, Alma",
+                "url": "https://tinyurl.com/2kedtxbk",
+                "email": "adrienne.christian@mail.house.gov",
+                "firstName": "Adams",
+                "lastName": "Alma"
+            },
+            {
+                "name": "Nickel, Wiley",
+                "url": "https://tinyurl.com/3js4rdvs",
+                "email": "abby.may2@mail.house.gov",
+                "firstName": "Nickel",
+                "lastName": "Wiley"
+            },
+            {
+                "name": "Jackson, Jeff",
+                "url": "https://tinyurl.com/3b5hpn49",
+                "email": "Jeff.Jackson@mail.house.gov",
+                "firstName": "Jackson",
+                "lastName": "Jeff"
+            }
+        ]
+    },
+    "North Dakota": {
+        "senators": [
+            {
+                "name": "John Hoeven",
+                "url": "https://tinyurl.com/5r7ubcc6",
+                "email": "senator@hoeven.senate.gov",
+                "firstName": "John",
+                "lastName": "Hoeven"
+            },
+            {
+                "name": "Kevin Cramer",
+                "url": "https://tinyurl.com/5jckdk36",
+                "email": "kevin@cramer.senate.gov",
+                "firstName": "Kevin",
+                "lastName": "Cramer"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Armstrong, Kelly",
+                "url": "https://tinyurl.com/ye6xjej6",
+                "email": "Kelly.Armstrong@mail.house.gov",
+                "firstName": "Armstrong",
+                "lastName": "Kelly"
+            }
+        ]
+    },
+    "Ohio": {
+        "senators": [
+            {
+                "name": "Sherrod Brown",
+                "url": "https://tinyurl.com/4aps44bt",
+                "email": "sarah_benzing@brown.senate.gov",
+                "firstName": "Sherrod",
+                "lastName": "Brown"
+            },
+            {
+                "name": "J. D. Vance",
+                "url": "https://tinyurl.com/ywbx6r7n",
+                "email": "jacob_reses@vance.senate.gov",
+                "firstName": "J.",
+                "lastName": "Vance"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Landsman, Greg",
+                "url": "https://tinyurl.com/rkv59jjx",
+                "email": "Greg.Landsman@mail.house.gov",
+                "firstName": "Landsman",
+                "lastName": "Greg"
+            },
+            {
+                "name": "Wenstrup, Brad",
+                "url": "https://tinyurl.com/3rez9fhd",
+                "email": "greg.brooks@mail.house.gov",
+                "firstName": "Wenstrup",
+                "lastName": "Brad"
+            },
+            {
+                "name": "Beatty, Joyce",
+                "url": "https://tinyurl.com/mtkxapbk",
+                "email": "Joyce.Beatty@mail.house.gov",
+                "firstName": "Beatty",
+                "lastName": "Joyce"
+            },
+            {
+                "name": "Jordan, Jim",
+                "url": "https://tinyurl.com/bdejtt7d",
+                "email": "Jim.Jordan@mail.house.gov",
+                "firstName": "Jordan",
+                "lastName": "Jim"
+            },
+            {
+                "name": "Latta, Robert",
+                "url": "https://tinyurl.com/yc4xyj9n",
+                "email": "Robert.Latta@mail.house.gov",
+                "firstName": "Latta",
+                "lastName": "Robert"
+            },
+            {
+                "name": "Johnson, Bill",
+                "url": "https://tinyurl.com/3b56eamv",
+                "email": "Bill.Johnson@mail.house.gov",
+                "firstName": "Johnson",
+                "lastName": "Bill"
+            },
+            {
+                "name": "Miller, Max",
+                "url": "https://tinyurl.com/y738juda",
+                "email": "Max.Miller@mail.house.gov",
+                "firstName": "Miller",
+                "lastName": "Max"
+            },
+            {
+                "name": "Davidson, Warren",
+                "url": "https://tinyurl.com/3rmd3ash",
+                "email": "connor.white@mail.house.gov",
+                "firstName": "Davidson",
+                "lastName": "Warren"
+            },
+            {
+                "name": "Kaptur, Marcy",
+                "url": "https://tinyurl.com/2ftmwayd",
+                "email": "Marcy.Kaptur@mail.house.gov",
+                "firstName": "Kaptur",
+                "lastName": "Marcy"
+            },
+            {
+                "name": "Turner, Michael",
+                "url": "https://tinyurl.com/4hsmmchy",
+                "email": "Michael.Turner@mail.house.gov",
+                "firstName": "Turner",
+                "lastName": "Michael"
+            },
+            {
+                "name": "Brown, Shontel",
+                "url": "https://tinyurl.com/yc4kfc9d",
+                "email": "veleter.mazyck@mail.house.gov",
+                "firstName": "Brown",
+                "lastName": "Shontel"
+            },
+            {
+                "name": "Balderson, Troy",
+                "url": "https://tinyurl.com/3xst9wcb",
+                "email": "Troy.Balderson@mail.house.gov",
+                "firstName": "Balderson",
+                "lastName": "Troy"
+            },
+            {
+                "name": "Sykes, Emilia",
+                "url": "https://tinyurl.com/3ab82e2x",
+                "email": "Emilia.Sykes@mail.house.gov",
+                "firstName": "Sykes",
+                "lastName": "Emilia"
+            },
+            {
+                "name": "Joyce, David",
+                "url": "https://tinyurl.com/3wh8t7j9",
+                "email": "anna.alburger@mail.house.gov",
+                "firstName": "Joyce",
+                "lastName": "David"
+            },
+            {
+                "name": "Carey, Mike",
+                "url": "https://tinyurl.com/yc2x2e2a",
+                "email": "Mike.Carey@mail.house.gov",
+                "firstName": "Carey",
+                "lastName": "Mike"
+            }
+        ]
+    },
+    "Oklahoma": {
+        "senators": [
+            {
+                "name": "Markwayne Mullin",
+                "url": "https://tinyurl.com/5yphbkhy",
+                "email": "benjamin_cantrell@mullin.senate.gov",
+                "firstName": "Markwayne",
+                "lastName": "Mullin"
+            },
+            {
+                "name": "James Lankford",
+                "url": "https://tinyurl.com/yezcw462",
+                "email": "michelle_altman@lankford.senate.gov",
+                "firstName": "James",
+                "lastName": "Lankford"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Hern, Kevin",
+                "url": "https://tinyurl.com/4vcxsze7",
+                "email": "Kevin.Hern@mail.house.gov",
+                "firstName": "Hern",
+                "lastName": "Kevin"
+            },
+            {
+                "name": "Brecheen, Josh",
+                "url": "https://tinyurl.com/yae547re",
+                "email": "Josh.Brecheen@mail.house.gov",
+                "firstName": "Brecheen",
+                "lastName": "Josh"
+            },
+            {
+                "name": "Lucas, Frank",
+                "url": "https://tinyurl.com/y8hc6755",
+                "email": "stacey.glasscock@mail.house.gov",
+                "firstName": "Lucas",
+                "lastName": "Frank"
+            },
+            {
+                "name": "Cole, Tom",
+                "url": "https://tinyurl.com/ye23mkh3",
+                "email": "joshua.grogis@mail.house.gov",
+                "firstName": "Cole",
+                "lastName": "Tom"
+            },
+            {
+                "name": "Bice, Stephanie",
+                "url": "https://tinyurl.com/2bk94ruw",
+                "email": "amy.albro@mail.house.gov",
+                "firstName": "Bice",
+                "lastName": "Stephanie"
+            }
+        ]
+    },
+    "Oregon": {
+        "senators": [
+            {
+                "name": "Ron Wyden",
+                "url": "https://tinyurl.com/yk52uhsd",
+                "email": "ron_wyden@wyden.senate.gov",
+                "firstName": "Ron",
+                "lastName": "Wyden"
+            },
+            {
+                "name": "Jeff Merkley",
+                "url": "https://tinyurl.com/3v6cdh4r",
+                "email": "carly_vandegrift@merkley.senate.gov",
+                "firstName": "Jeff",
+                "lastName": "Merkley"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Bonamici, Suzanne",
+                "url": "https://tinyurl.com/mr23y6em",
+                "email": "Suzanne.Bonamici@mail.house.gov",
+                "firstName": "Bonamici",
+                "lastName": "Suzanne"
+            },
+            {
+                "name": "Bentz, Cliff",
+                "url": "https://tinyurl.com/3p9mbdjz",
+                "email": "Cliff.Bentz@mail.house.gov",
+                "firstName": "Bentz",
+                "lastName": "Cliff"
+            },
+            {
+                "name": "Blumenauer, Earl",
+                "url": "https://tinyurl.com/5244bbcx",
+                "email": "Earl.Blumenauer@mail.house.gov",
+                "firstName": "Blumenauer",
+                "lastName": "Earl"
+            },
+            {
+                "name": "Hoyle, Val",
+                "url": "https://tinyurl.com/4dn4y53r",
+                "email": "karmen.fore@mail.house.gov",
+                "firstName": "Hoyle",
+                "lastName": "Val"
+            },
+            {
+                "name": "Chavez-DeRemer, Lori",
+                "url": "https://tinyurl.com/jppe9hve",
+                "email": "Lori.Chavez-DeRemer@mail.house.gov",
+                "firstName": "Chavez-DeRemer",
+                "lastName": "Lori"
+            },
+            {
+                "name": "Salinas, Andrea",
+                "url": "https://tinyurl.com/ha66eamp",
+                "email": "Andrea.Salinas@mail.house.gov",
+                "firstName": "Salinas",
+                "lastName": "Andrea"
+            }
+        ]
+    },
+    "Pennsylvania": {
+        "senators": [
+            {
+                "name": "John Fetterman",
+                "url": "https://tinyurl.com/mr3k4ztn",
+                "email": "adam_jentleson@fetterman.senate.gov",
+                "firstName": "John",
+                "lastName": "Fetterman"
+            },
+            {
+                "name": "Bob Casey Jr.",
+                "url": "https://tinyurl.com/y36f9bxa",
+                "email": "kristen_gentile@casey.senate.gov",
+                "firstName": "Bob",
+                "lastName": "Casey"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Fitzpatrick, Brian",
+                "url": "https://tinyurl.com/3u635hyy",
+                "email": "Brian.Fitzpatrick@mail.house.gov",
+                "firstName": "Fitzpatrick",
+                "lastName": "Brian"
+            },
+            {
+                "name": "Boyle, Brendan",
+                "url": "https://tinyurl.com/8y7ar748",
+                "email": "Brendan.Boyle@mail.house.gov",
+                "firstName": "Boyle",
+                "lastName": "Brendan"
+            },
+            {
+                "name": "Evans, Dwight",
+                "url": "https://tinyurl.com/4cuykube",
+                "email": "Dwight.Evans@mail.house.gov",
+                "firstName": "Evans",
+                "lastName": "Dwight"
+            },
+            {
+                "name": "Dean, Madeleine",
+                "url": "https://tinyurl.com/yc5exvk8",
+                "email": "Madeleine.Dean@mail.house.gov",
+                "firstName": "Dean",
+                "lastName": "Madeleine"
+            },
+            {
+                "name": "Scanlon, Mary",
+                "url": "https://tinyurl.com/43keawdm",
+                "email": "Mary.Scanlon@mail.house.gov",
+                "firstName": "Scanlon",
+                "lastName": "Mary"
+            },
+            {
+                "name": "Houlahan, Chrissy",
+                "url": "https://tinyurl.com/2bxxwfsv",
+                "email": "Chrissy.Houlahan@mail.house.gov",
+                "firstName": "Houlahan",
+                "lastName": "Chrissy"
+            },
+            {
+                "name": "Wild, Susan",
+                "url": "https://tinyurl.com/rscfsazz",
+                "email": "Susan.Wild@mail.house.gov",
+                "firstName": "Wild",
+                "lastName": "Susan"
+            },
+            {
+                "name": "Cartwright, Matt",
+                "url": "https://tinyurl.com/ycyzwpt8",
+                "email": "Matt.Cartwright@mail.house.gov",
+                "firstName": "Cartwright",
+                "lastName": "Matt"
+            },
+            {
+                "name": "Meuser, Daniel",
+                "url": "https://tinyurl.com/bdd38xme",
+                "email": "Daniel.Meuser@mail.house.gov",
+                "firstName": "Meuser",
+                "lastName": "Daniel"
+            },
+            {
+                "name": "Perry, Scott",
+                "url": "https://tinyurl.com/52kf3s8z",
+                "email": "Scott.Perry@mail.house.gov",
+                "firstName": "Perry",
+                "lastName": "Scott"
+            },
+            {
+                "name": "Smucker, Lloyd",
+                "url": "https://tinyurl.com/4akv7c7t",
+                "email": "Lloyd.Smucker@mail.house.gov",
+                "firstName": "Smucker",
+                "lastName": "Lloyd"
+            },
+            {
+                "name": "Lee, Summer",
+                "url": "https://tinyurl.com/ye2extxs",
+                "email": "Summer.Lee@mail.house.gov",
+                "firstName": "Lee",
+                "lastName": "Summer"
+            },
+            {
+                "name": "Joyce, John",
+                "url": "https://tinyurl.com/45dtfvxh",
+                "email": "John.Joyce@mail.house.gov",
+                "firstName": "Joyce",
+                "lastName": "John"
+            },
+            {
+                "name": "Reschenthaler, Guy",
+                "url": "https://tinyurl.com/3wyvzn9k",
+                "email": "Guy.Reschenthaler@mail.house.gov",
+                "firstName": "Reschenthaler",
+                "lastName": "Guy"
+            },
+            {
+                "name": "Thompson, Glenn",
+                "url": "https://tinyurl.com/yut8wt8w",
+                "email": "Glenn.Thompson@mail.house.gov",
+                "firstName": "Thompson",
+                "lastName": "Glenn"
+            },
+            {
+                "name": "Kelly, Mike",
+                "url": "https://tinyurl.com/46nxzujc",
+                "email": "Mike.Kelly@mail.house.gov",
+                "firstName": "Kelly",
+                "lastName": "Mike"
+            },
+            {
+                "name": "Deluzio, Christopher",
+                "url": "https://tinyurl.com/2484sv62",
+                "email": "Christopher.Deluzio@mail.house.gov",
+                "firstName": "Deluzio",
+                "lastName": "Christopher"
+            }
+        ]
+    },
+    "Rhode Island": {
+        "senators": [
+            {
+                "name": "Sheldon Whitehouse",
+                "url": "https://tinyurl.com/3nmubk5a",
+                "email": "Sheldon_Whitehouse@whitehouse.senate.gov",
+                "firstName": "Sheldon",
+                "lastName": "Whitehouse"
+            },
+            {
+                "name": "Jack Reed",
+                "url": "https://tinyurl.com/mpr9m99p",
+                "email": "Jack_Reed@reed.senate.gov",
+                "firstName": "Jack",
+                "lastName": "Reed"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Cicilline, David N",
+                "url": "https://tinyurl.com/3mkd6a4p",
+                "email": "David.Cicilline@mail.house.gov",
+                "firstName": "Cicilline",
+                "lastName": "N"
+            },
+            {
+                "name": "Magaziner, Seth",
+                "url": "https://tinyurl.com/4rv984zh",
+                "email": "Seth.Magaziner@mail.house.gov",
+                "firstName": "Magaziner",
+                "lastName": "Seth"
+            }
+        ]
+    },
+    "South Carolina": {
+        "senators": [
+            {
+                "name": "Tim Scott",
+                "url": "https://tinyurl.com/ycym9fzr",
+                "email": "neri_martinez@scott.senate.gov",
+                "firstName": "Tim",
+                "lastName": "Scott"
+            },
+            {
+                "name": "Lindsey Graham",
+                "url": "https://tinyurl.com/47a2s4vy",
+                "email": "Richard_Perry@lgraham.senate.gov",
+                "firstName": "Lindsey",
+                "lastName": "Graham"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Mace, Nancy",
+                "url": "https://tinyurl.com/5n8b43u4",
+                "email": "Nancy.Mace@mail.house.gov",
+                "firstName": "Mace",
+                "lastName": "Nancy"
+            },
+            {
+                "name": "",
+                "url": "https://joewilson.house.gov/",
+                "email": null,
+                "firstName": "",
+                "lastName": ""
+            },
+            {
+                "name": "Duncan, Jeff",
+                "url": "https://tinyurl.com/49y9925v",
+                "email": "Jeff.Duncan@mail.house.gov",
+                "firstName": "Duncan",
+                "lastName": "Jeff"
+            },
+            {
+                "name": "Timmons, William",
+                "url": "https://tinyurl.com/ycked34b",
+                "email": "William.Timmons@mail.house.gov",
+                "firstName": "Timmons",
+                "lastName": "William"
+            },
+            {
+                "name": "Norman, Ralph",
+                "url": "https://tinyurl.com/66cjnuzs",
+                "email": "Ralph.Norman@mail.house.gov",
+                "firstName": "Norman",
+                "lastName": "Ralph"
+            },
+            {
+                "name": "Clyburn, James",
+                "url": "https://tinyurl.com/4ybu873s",
+                "email": "James.Clyburn@mail.house.gov",
+                "firstName": "Clyburn",
+                "lastName": "James"
+            },
+            {
+                "name": "Fry, Russell",
+                "url": "https://tinyurl.com/zw6fwh7y",
+                "email": "Russell.Fry@mail.house.gov",
+                "firstName": "Fry",
+                "lastName": "Russell"
+            }
+        ]
+    },
+    "South Dakota": {
+        "senators": [
+            {
+                "name": "John Thune",
+                "url": "https://tinyurl.com/2mk3jr3y",
+                "email": "ryan_nelson@thune.senate.gov",
+                "firstName": "John",
+                "lastName": "Thune"
+            },
+            {
+                "name": "Mike Rounds",
+                "url": "https://tinyurl.com/3m66vk2f",
+                "email": "mike@rounds.senate.gov",
+                "firstName": "Mike",
+                "lastName": "Rounds"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Johnson, Dusty",
+                "url": "https://tinyurl.com/3dwrs63n",
+                "email": "andrew.christianson@mail.house.gov",
+                "firstName": "Johnson",
+                "lastName": "Dusty"
+            }
+        ]
+    },
+    "Tennessee": {
+        "senators": [
+            {
+                "name": "Marsha Blackburn",
+                "url": "https://tinyurl.com/46mnbhpu",
+                "email": "mwb@blackburn.senate.gov",
+                "firstName": "Marsha",
+                "lastName": "Blackburn"
+            },
+            {
+                "name": "Bill Hagerty",
+                "url": "https://tinyurl.com/t47faxjk",
+                "email": "adam_telle@hagerty.senate.gov",
+                "firstName": "Bill",
+                "lastName": "Hagerty"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Harshbarger, Diana",
+                "url": "https://tinyurl.com/m9vfny7x",
+                "email": "Diana.Harshbarger@mail.house.gov",
+                "firstName": "Harshbarger",
+                "lastName": "Diana"
+            },
+            {
+                "name": "Burchett, Tim",
+                "url": "https://tinyurl.com/4u5sprbf",
+                "email": "Tim.Burchett@mail.house.gov",
+                "firstName": "Burchett",
+                "lastName": "Tim"
+            },
+            {
+                "name": "Fleischmann, Charles",
+                "url": "https://tinyurl.com/59vkhx24",
+                "email": "Charles.Fleischmann@mail.house.gov",
+                "firstName": "Fleischmann",
+                "lastName": "Charles"
+            },
+            {
+                "name": "DesJarlais, Scott",
+                "url": "https://tinyurl.com/59aa9h2m",
+                "email": "Scott.DesJarlais@mail.house.gov",
+                "firstName": "DesJarlais",
+                "lastName": "Scott"
+            },
+            {
+                "name": "Ogles, Andrew",
+                "url": "https://tinyurl.com/jv4rtze8",
+                "email": "Andrew.Ogles@mail.house.gov",
+                "firstName": "Ogles",
+                "lastName": "Andrew"
+            },
+            {
+                "name": "Rose, John",
+                "url": "https://tinyurl.com/jpdme335",
+                "email": "John.Rose@mail.house.gov",
+                "firstName": "Rose",
+                "lastName": "John"
+            },
+            {
+                "name": "Green, Mark",
+                "url": "https://tinyurl.com/ymbt7yh9",
+                "email": "Mark.Green@mail.house.gov",
+                "firstName": "Green",
+                "lastName": "Mark"
+            },
+            {
+                "name": "Kustoff, David",
+                "url": "https://tinyurl.com/mpdyadc2",
+                "email": "David.Kustoff@mail.house.gov",
+                "firstName": "Kustoff",
+                "lastName": "David"
+            },
+            {
+                "name": "Cohen, Steve",
+                "url": "https://tinyurl.com/rk3me52u",
+                "email": "Steve.Cohen@mail.house.gov",
+                "firstName": "Cohen",
+                "lastName": "Steve"
+            }
+        ]
+    },
+    "Texas": {
+        "senators": [
+            {
+                "name": "John Cornyn",
+                "url": "https://tinyurl.com/4rfhmnh9",
+                "email": "drew_brandewie@cornyn.senate.gov",
+                "firstName": "John",
+                "lastName": "Cornyn"
+            },
+            {
+                "name": "Ted Cruz",
+                "url": "https://tinyurl.com/fc5ev9ba",
+                "email": "aaron_reitz@cruz.senate.gov",
+                "firstName": "Ted",
+                "lastName": "Cruz"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Moran, Nathaniel",
+                "url": "https://tinyurl.com/msmte2h3",
+                "email": "Nathaniel.Moran@mail.house.gov",
+                "firstName": "Moran",
+                "lastName": "Nathaniel"
+            },
+            {
+                "name": "Crenshaw, Dan",
+                "url": "https://tinyurl.com/mszxtubb",
+                "email": "Dan.Crenshaw@mail.house.gov",
+                "firstName": "Crenshaw",
+                "lastName": "Dan"
+            },
+            {
+                "name": "Self, Keith",
+                "url": "https://tinyurl.com/mryshbh8",
+                "email": "Keith.Self@mail.house.gov",
+                "firstName": "Self",
+                "lastName": "Keith"
+            },
+            {
+                "name": "Fallon, Pat",
+                "url": "https://tinyurl.com/3d7ya23k",
+                "email": "Pat.Fallon@mail.house.gov",
+                "firstName": "Fallon",
+                "lastName": "Pat"
+            },
+            {
+                "name": "Gooden, Lance",
+                "url": "https://tinyurl.com/mr2znxn2",
+                "email": "Lance.Gooden@mail.house.gov",
+                "firstName": "Gooden",
+                "lastName": "Lance"
+            },
+            {
+                "name": "Ellzey, Jake",
+                "url": "https://tinyurl.com/3vtt76uj",
+                "email": "Jake.Ellzey@mail.house.gov",
+                "firstName": "Ellzey",
+                "lastName": "Jake"
+            },
+            {
+                "name": "Fletcher, Lizzie",
+                "url": "https://tinyurl.com/ykhwhpau",
+                "email": "Lizzie.Fletcher@mail.house.gov",
+                "firstName": "Fletcher",
+                "lastName": "Lizzie"
+            },
+            {
+                "name": "Luttrell, Morgan",
+                "url": "https://tinyurl.com/5e387w55",
+                "email": "Morgan.Luttrell@mail.house.gov",
+                "firstName": "Luttrell",
+                "lastName": "Morgan"
+            },
+            {
+                "name": "Green, Al",
+                "url": "https://tinyurl.com/y3u3t5z4",
+                "email": "Al.Green@mail.house.gov",
+                "firstName": "Green",
+                "lastName": "Al"
+            },
+            {
+                "name": "McCaul, Michael",
+                "url": "https://tinyurl.com/4vmax52f",
+                "email": "andrew.ross@mail.house.gov",
+                "firstName": "McCaul",
+                "lastName": "Michael"
+            },
+            {
+                "name": "Pfluger, August",
+                "url": "https://tinyurl.com/ye3h8xtp",
+                "email": "August.Pfluger@mail.house.gov",
+                "firstName": "Pfluger",
+                "lastName": "August"
+            },
+            {
+                "name": "Granger, Kay",
+                "url": "https://tinyurl.com/bdfm576r",
+                "email": "Kay.Granger@mail.house.gov",
+                "firstName": "Granger",
+                "lastName": "Kay"
+            },
+            {
+                "name": "Jackson, Ronny",
+                "url": "https://tinyurl.com/bdjbb4nd",
+                "email": "Ronny.Jackson@mail.house.gov",
+                "firstName": "Jackson",
+                "lastName": "Ronny"
+            },
+            {
+                "name": "Weber, Randy",
+                "url": "https://tinyurl.com/4tr9356c",
+                "email": "Randy.Weber@mail.house.gov",
+                "firstName": "Weber",
+                "lastName": "Randy"
+            },
+            {
+                "name": "De La Cruz, Monica",
+                "url": "https://tinyurl.com/5n96y3cd",
+                "email": "Camden.Ritchey@mail.house.gov",
+                "firstName": "De",
+                "lastName": "Monica"
+            },
+            {
+                "name": "Escobar, Veronica",
+                "url": "https://tinyurl.com/9zbpuh7w",
+                "email": "Veronica.Escobar@mail.house.gov",
+                "firstName": "Escobar",
+                "lastName": "Veronica"
+            },
+            {
+                "name": "Sessions, Pete",
+                "url": "https://tinyurl.com/3jcsctvz",
+                "email": "Pete.Sessions@mail.house.gov",
+                "firstName": "Sessions",
+                "lastName": "Pete"
+            },
+            {
+                "name": "Jackson Lee, Sheila",
+                "url": "https://tinyurl.com/3v95upnp",
+                "email": "Amy.Arceo@mail.house.gov",
+                "firstName": "Jackson",
+                "lastName": "Sheila"
+            },
+            {
+                "name": "Arrington, Jodey",
+                "url": "https://tinyurl.com/49z2d8dw",
+                "email": "Jodey.Arrington@mail.house.gov",
+                "firstName": "Arrington",
+                "lastName": "Jodey"
+            },
+            {
+                "name": "Castro, Joaquin",
+                "url": "https://tinyurl.com/4mdfz2tm",
+                "email": "Joaquin.Castro@mail.house.gov",
+                "firstName": "Castro",
+                "lastName": "Joaquin"
+            },
+            {
+                "name": "Roy, Chip",
+                "url": "https://tinyurl.com/4692ff5p",
+                "email": "sabrina.hancock@mail.house.gov",
+                "firstName": "Roy",
+                "lastName": "Chip"
+            },
+            {
+                "name": "Nehls, Troy",
+                "url": "https://tinyurl.com/5fczsxya",
+                "email": "Troy.Nehls@mail.house.gov",
+                "firstName": "Nehls",
+                "lastName": "Troy"
+            },
+            {
+                "name": "Gonzales, Tony",
+                "url": "https://tinyurl.com/43s6whtu",
+                "email": "Tony.Gonzales@mail.house.gov",
+                "firstName": "Gonzales",
+                "lastName": "Tony"
+            },
+            {
+                "name": "Van Duyne, Beth",
+                "url": "https://tinyurl.com/ye26fue6",
+                "email": "beth.vanduyne@mail.house.gov",
+                "firstName": "Van",
+                "lastName": "Beth"
+            },
+            {
+                "name": "Williams, Roger",
+                "url": "https://tinyurl.com/5xkn4wr7",
+                "email": "john.etue@mail.house.gov",
+                "firstName": "Williams",
+                "lastName": "Roger"
+            },
+            {
+                "name": "Burgess, Michael",
+                "url": "",
+                "email": "undefined@localhost",
+                "firstName": "Burgess",
+                "lastName": "Michael"
+            },
+            {
+                "name": "Cloud, Michael",
+                "url": "https://tinyurl.com/bp7rb45h",
+                "email": "Michael.Cloud@mail.house.gov",
+                "firstName": "Cloud",
+                "lastName": "Michael"
+            },
+            {
+                "name": "Cuellar, Henry",
+                "url": "https://tinyurl.com/mpxmu27t",
+                "email": "Henry.Cuellar@mail.house.gov",
+                "firstName": "Cuellar",
+                "lastName": "Henry"
+            },
+            {
+                "name": "Garcia, Sylvia",
+                "url": "https://tinyurl.com/5n8xyauw",
+                "email": "Sylvia.Garcia@mail.house.gov",
+                "firstName": "Garcia",
+                "lastName": "Sylvia"
+            },
+            {
+                "name": "Crockett, Jasmine",
+                "url": "https://tinyurl.com/ym4x3cmp",
+                "email": "jason.rodriguez@mail.house.gov",
+                "firstName": "Crockett",
+                "lastName": "Jasmine"
+            },
+            {
+                "name": "Carter, John",
+                "url": "https://tinyurl.com/3yakvb55",
+                "email": "jonas.miller@mail.house.gov",
+                "firstName": "Carter",
+                "lastName": "John"
+            },
+            {
+                "name": "Allred, Colin",
+                "url": "https://tinyurl.com/ycfdvj3j",
+                "email": "Colin.Allred@mail.house.gov",
+                "firstName": "Allred",
+                "lastName": "Colin"
+            },
+            {
+                "name": "Veasey, Marc",
+                "url": "https://tinyurl.com/mw9v25yk",
+                "email": "Marc.Veasey@mail.house.gov",
+                "firstName": "Veasey",
+                "lastName": "Marc"
+            },
+            {
+                "name": "Gonzalez, Vicente",
+                "url": "https://tinyurl.com/yx4tcmt8",
+                "email": "Vicente.Gonzalez@mail.house.gov",
+                "firstName": "Gonzalez",
+                "lastName": "Vicente"
+            },
+            {
+                "name": "Casar, Greg",
+                "url": "https://tinyurl.com/3spujc7t",
+                "email": "Greg.Casar@mail.house.gov",
+                "firstName": "Casar",
+                "lastName": "Greg"
+            },
+            {
+                "name": "Babin, Brian",
+                "url": "https://tinyurl.com/yc5x7va3",
+                "email": "Brian.Babin@mail.house.gov",
+                "firstName": "Babin",
+                "lastName": "Brian"
+            },
+            {
+                "name": "Doggett, Lloyd",
+                "url": "https://tinyurl.com/49h933kr",
+                "email": "Lloyd.Doggett@mail.house.gov",
+                "firstName": "Doggett",
+                "lastName": "Lloyd"
+            },
+            {
+                "name": "Hunt, Wesley",
+                "url": "https://tinyurl.com/4w49xcwt",
+                "email": "Wesley.Hunt@mail.house.gov",
+                "firstName": "Hunt",
+                "lastName": "Wesley"
+            }
+        ]
+    },
+    "Utah": {
+        "senators": [
+            {
+                "name": "Mitt Romney",
+                "url": "https://tinyurl.com/nhb9exh5",
+                "email": "senator_romney@romney.senate.gov",
+                "firstName": "Mitt",
+                "lastName": "Romney"
+            },
+            {
+                "name": "Mike Lee",
+                "url": "https://tinyurl.com/2p9cf9rm",
+                "email": "Mike_Lee@lee.senate.gov",
+                "firstName": "Mike",
+                "lastName": "Lee"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Moore, Blake",
+                "url": "https://tinyurl.com/45n7x942",
+                "email": "Blake.Moore@mail.house.gov",
+                "firstName": "Moore",
+                "lastName": "Blake"
+            },
+            {
+                "name": "Stewart, Chris (Vacancy)",
+                "url": "https://tinyurl.com/2n37w52j",
+                "email": "chris.stewart@mail.house.gov",
+                "firstName": "Stewart",
+                "lastName": "(Vacancy)"
+            },
+            {
+                "name": "Curtis, John",
+                "url": "https://tinyurl.com/5aczpan6",
+                "email": "cnorman@mail.house.gov",
+                "firstName": "Curtis",
+                "lastName": "John"
+            },
+            {
+                "name": "Owens, Burgess",
+                "url": "https://tinyurl.com/55ejpweu",
+                "email": "Burgess.Owens@mail.house.gov",
+                "firstName": "Owens",
+                "lastName": "Burgess"
+            }
+        ]
+    },
+    "Vermont": {
+        "senators": [
+            {
+                "name": "Bernie Sanders",
+                "url": "https://tinyurl.com/3h6944ys",
+                "email": "Bernard_Sanders@sanders.senate.gov",
+                "firstName": "Bernie",
+                "lastName": "Sanders"
+            },
+            {
+                "name": "Peter Welch",
+                "url": "https://tinyurl.com/3dezdnah",
+                "email": "alexandra_golden@welch.senate.gov",
+                "firstName": "Peter",
+                "lastName": "Welch"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Balint, Becca",
+                "url": "https://tinyurl.com/58fy2vwc",
+                "email": "Becca.Balint@mail.house.gov",
+                "firstName": "Balint",
+                "lastName": "Becca"
+            }
+        ]
+    },
+    "Virginia": {
+        "senators": [
+            {
+                "name": "Mark Warner",
+                "url": "https://tinyurl.com/3b4rwzpb",
+                "email": "Mark_Warner@warner.senate.gov",
+                "firstName": "Mark",
+                "lastName": "Warner"
+            },
+            {
+                "name": "Tim Kaine",
+                "url": "https://tinyurl.com/ywmhc6c7",
+                "email": "Tim_Kaine@kaine.senate.gov",
+                "firstName": "Tim",
+                "lastName": "Kaine"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Wittman, Robert",
+                "url": "https://tinyurl.com/3nuc7cjw",
+                "email": "carolyn.king@mail.house.gov",
+                "firstName": "Wittman",
+                "lastName": "Robert"
+            },
+            {
+                "name": "Kiggans, Jennifer",
+                "url": "https://tinyurl.com/5yprm5u5",
+                "email": "jennifer.kiggans@mail.house.gov",
+                "firstName": "Kiggans",
+                "lastName": "Jennifer"
+            },
+            {
+                "name": "Scott, Robert",
+                "url": "https://tinyurl.com/4au2v62y",
+                "email": "robert.scott@mail.house.gov",
+                "firstName": "Scott",
+                "lastName": "Robert"
+            },
+            {
+                "name": "McClellan, Jennifer",
+                "url": "https://tinyurl.com/3kecvz9u",
+                "email": "jennifer.mcclellan@mail.house.gov",
+                "firstName": "McClellan",
+                "lastName": "Jennifer"
+            },
+            {
+                "name": "Good, Bob",
+                "url": "https://tinyurl.com/4r3ntcy3",
+                "email": "bob.good@mail.house.gov",
+                "firstName": "Good",
+                "lastName": "Bob"
+            },
+            {
+                "name": "Cline, Ben",
+                "url": "https://tinyurl.com/4w3cc3ww",
+                "email": "ben.cline@mail.house.gov",
+                "firstName": "Cline",
+                "lastName": "Ben"
+            },
+            {
+                "name": "Spanberger, Abigail",
+                "url": "https://tinyurl.com/2ev6fzua",
+                "email": "abigail.spanberger@mail.house.gov",
+                "firstName": "Spanberger",
+                "lastName": "Abigail"
+            },
+            {
+                "name": "Beyer, Donald",
+                "url": "https://tinyurl.com/2hrhawdk",
+                "email": "donald.beyer@mail.house.gov",
+                "firstName": "Beyer",
+                "lastName": "Donald"
+            },
+            {
+                "name": "Griffith, H.",
+                "url": "https://tinyurl.com/3j7ptmm9",
+                "email": "h.griffith@mail.house.gov",
+                "firstName": "Griffith",
+                "lastName": "H."
+            },
+            {
+                "name": "Wexton, Jennifer",
+                "url": "https://tinyurl.com/4rpj56td",
+                "email": "jennifer.wexton@mail.house.gov",
+                "firstName": "Wexton",
+                "lastName": "Jennifer"
+            },
+            {
+                "name": "Connolly, Gerald",
+                "url": "https://tinyurl.com/34fnnws9",
+                "email": "gerald.connolly@mail.house.gov",
+                "firstName": "Connolly",
+                "lastName": "Gerald"
+            }
+        ]
+    },
+    "Washington": {
+        "senators": [
+            {
+                "name": "Patty Murray",
+                "url": "https://tinyurl.com/cse3z9ny",
+                "email": "mindi_linquist@murray.senate.gov",
+                "firstName": "Patty",
+                "lastName": "Murray"
+            },
+            {
+                "name": "Maria Cantwell",
+                "url": "https://tinyurl.com/vvpby22v",
+                "email": "maria_cantwell@cantwell.senate.gov",
+                "firstName": "Maria",
+                "lastName": "Cantwell"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "DelBene, Suzan",
+                "url": "https://tinyurl.com/4sezz2ac",
+                "email": "aaron.schmidt@mail.house.gov",
+                "firstName": "DelBene",
+                "lastName": "Suzan"
+            },
+            {
+                "name": "Larsen, Rick",
+                "url": "https://tinyurl.com/3kkzn64a",
+                "email": "rick.larsen@mail.house.gov",
+                "firstName": "Larsen",
+                "lastName": "Rick"
+            },
+            {
+                "name": "Perez, Marie",
+                "url": "https://tinyurl.com/mms88wj2",
+                "email": "marie.perez@mail.house.gov",
+                "firstName": "Perez",
+                "lastName": "Marie"
+            },
+            {
+                "name": "Newhouse, Dan",
+                "url": "https://tinyurl.com/bdf665z5",
+                "email": "dan.newhouse@mail.house.gov",
+                "firstName": "Newhouse",
+                "lastName": "Dan"
+            },
+            {
+                "name": "Rodgers, Cathy",
+                "url": "https://tinyurl.com/3rtdrcak",
+                "email": "cathy.rodgers@mail.house.gov",
+                "firstName": "Rodgers",
+                "lastName": "Cathy"
+            },
+            {
+                "name": "Kilmer, Derek",
+                "url": "https://tinyurl.com/mr3b4a8z",
+                "email": "derek.kilmer@mail.house.gov",
+                "firstName": "Kilmer",
+                "lastName": "Derek"
+            },
+            {
+                "name": "Jayapal, Pramila",
+                "url": "https://tinyurl.com/4fdp93pe",
+                "email": "lilah.pomerance@mail.house.gov",
+                "firstName": "Jayapal",
+                "lastName": "Pramila"
+            },
+            {
+                "name": "Schrier, Kim",
+                "url": "https://tinyurl.com/2337z7s7",
+                "email": "kim.schrier@mail.house.gov",
+                "firstName": "Schrier",
+                "lastName": "Kim"
+            },
+            {
+                "name": "Smith, Adam",
+                "url": "https://tinyurl.com/5xn4atej",
+                "email": "sarah.servin@mail.house.gov",
+                "firstName": "Smith",
+                "lastName": "Adam"
+            },
+            {
+                "name": "Strickland, Marilyn",
+                "url": "https://tinyurl.com/mprm2ddh",
+                "email": "marilyn.strickland@mail.house.gov",
+                "firstName": "Strickland",
+                "lastName": "Marilyn"
+            }
+        ]
+    },
+    "West Virginia": {
+        "senators": [
+            {
+                "name": "Joe Manchin",
+                "url": "https://tinyurl.com/hde2m22a",
+                "email": "wes_kungel@manchin.senate.gov",
+                "firstName": "Joe",
+                "lastName": "Manchin"
+            },
+            {
+                "name": "Shelley Moore Capito",
+                "url": "https://tinyurl.com/4nh3axaw",
+                "email": "shelley_capito@capito.senate.gov",
+                "firstName": "Shelley",
+                "lastName": "Capito"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Miller, Carol",
+                "url": "https://tinyurl.com/52mxanm2",
+                "email": "carol.miller@mail.house.gov",
+                "firstName": "Miller",
+                "lastName": "Carol"
+            },
+            {
+                "name": "Mooney, Alexander",
+                "url": "https://tinyurl.com/22m943zk",
+                "email": "alexander.mooney@mail.house.gov",
+                "firstName": "Mooney",
+                "lastName": "Alexander"
+            }
+        ]
+    },
+    "Wisconsin": {
+        "senators": [
+            {
+                "name": "Ron Johnson",
+                "url": "https://tinyurl.com/3z9v7rp5",
+                "email": "Ron_Johnson@ronjohnson.senate.gov",
+                "firstName": "Ron",
+                "lastName": "Johnson"
+            },
+            {
+                "name": "Tammy Baldwin",
+                "url": "https://tinyurl.com/yv85uyru",
+                "email": "Tammy_Baldwin@baldwin.senate.gov",
+                "firstName": "Tammy",
+                "lastName": "Baldwin"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Steil, Bryan",
+                "url": "https://tinyurl.com/2p8x5n72",
+                "email": "bryan.steil@mail.house.gov",
+                "firstName": "Steil",
+                "lastName": "Bryan"
+            },
+            {
+                "name": "Pocan, Mark",
+                "url": "https://tinyurl.com/5hc6ww9f",
+                "email": "mark.pocan@mail.house.gov",
+                "firstName": "Pocan",
+                "lastName": "Mark"
+            },
+            {
+                "name": "Van Orden, Derrick",
+                "url": "https://tinyurl.com/2e4yfs2u",
+                "email": "derrick.vanorden@mail.house.gov",
+                "firstName": "Van",
+                "lastName": "Derrick"
+            },
+            {
+                "name": "Moore, Gwen",
+                "url": "https://tinyurl.com/5y96nb59",
+                "email": "gwen.moore@mail.house.gov",
+                "firstName": "Moore",
+                "lastName": "Gwen"
+            },
+            {
+                "name": "Fitzgerald, Scott",
+                "url": "https://tinyurl.com/yd8e32wz",
+                "email": "scott.fitzgerald@mail.house.gov",
+                "firstName": "Fitzgerald",
+                "lastName": "Scott"
+            },
+            {
+                "name": "Grothman, Glenn",
+                "url": "https://tinyurl.com/47ty22hk",
+                "email": "alan.ott@mail.house.gov",
+                "firstName": "Grothman",
+                "lastName": "Glenn"
+            },
+            {
+                "name": "Tiffany, Thomas",
+                "url": "https://tinyurl.com/mte9kwhm",
+                "email": "thomas.tiffany@mail.house.gov",
+                "firstName": "Tiffany",
+                "lastName": "Thomas"
+            },
+            {
+                "name": "Gallagher, Mike",
+                "url": "https://tinyurl.com/5xy9y5xr",
+                "email": "mike.gallagher@mail.house.gov",
+                "firstName": "Gallagher",
+                "lastName": "Mike"
+            }
+        ]
+    },
+    "Wyoming": {
+        "senators": [
+            {
+                "name": "John Barrasso",
+                "url": "https://tinyurl.com/2jh94w8j",
+                "email": "amber_bland@barrasso.senate.gov",
+                "firstName": "John",
+                "lastName": "Barrasso"
+            },
+            {
+                "name": "Cynthia Lummis",
+                "url": "https://tinyurl.com/yjv8cr5d",
+                "email": "kristin_walker@lummis.senate.gov",
+                "firstName": "Cynthia",
+                "lastName": "Lummis"
+            }
+        ],
+        "representatives": [
+            {
+                "name": "Hageman, Harriet",
+                "url": "https://tinyurl.com/mrx7rxcy",
+                "email": "harriet.hageman@mail.house.gov",
+                "firstName": "Hageman",
+                "lastName": "Harriet"
+            }
+        ]
+    }
+}
