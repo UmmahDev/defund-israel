@@ -24,8 +24,11 @@ The project consists of two main parts: the frontend and the backend.
 - **Technology**: The frontend is a React application, set up with Create React App, and deployed to an S3 bucket.
 - **Structure**: Frontend code is stored in the `client` directory.
 - **Deployment**: It's deployed using `serverless-finch`. Use the command `npm run deploy_react_app` to build and deploy the app. This command runs `npm run build && npx serverless client deploy`.
-- **Additional Setup**: The frontend is managed outside the main repo. A CloudFront distribution is set up on top of the S3 bucket, with a custom domain tied in Route53 to the CloudFront distribution.
-
+- **Additional Setup**: 
+  - The frontend is managed outside the main repo. A CloudFront distribution is set up on top of the S3 bucket, with a custom domain tied in Route53 to the CloudFront distribution.
+  - For a detailed guide on deploying a React app to S3 and setting up a CloudFront distribution, watch this tutorial: [Deploying a React App to S3 & CloudFront](https://www.youtube.com/watch?v=FEI-uEdb2y8&ab_channel=WornOffKeys).
+  - To learn how to configure a custom domain on a CloudFront distribution, refer to this video: [Configuring a Custom Domain on CloudFront](https://www.youtube.com/watch?v=qUiMdiHjJx8&ab_channel=WornOffKeys).
+    
 ## Getting Started
 
 1. **Fork the Repository**: Start by forking this repository to your account.
