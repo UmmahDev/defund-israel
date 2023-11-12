@@ -95,7 +95,7 @@ We are paying attention to the budget. We know when you're giving aid to a count
 As an elected official, you have the opportunity to listen to the public and stand against genocide. Israel is currently committing war crimes against Palestine. You can stop this by defunding Israel. THOUSANDS of Palestinian people have been killed, 1/3 of them children, in just a couple of days. One child every 15 minutes is being killed. YOU can prevent this by refusing to send additional weapons and funding to Israel. 
 
 We are currently spending BILLIONS of dollars EVERY YEAR on Israel. I do not want my money going towards the ethnic cleansing and genocide of Palestinians. Not a dollar more.`,
-    getRepresentativesApiUrl: 'https://yra6hejx6k.execute-api.us-east-1.amazonaws.com/dev/get-representatives'
+    getRepresentativesApiUrl: '' // Your deployed API url here
 };
 
 export default config;
